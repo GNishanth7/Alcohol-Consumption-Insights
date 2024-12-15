@@ -61,9 +61,7 @@ alcohol-consumption-dashboard/
   - **Trends**: Choose an age group to view alcohol consumption trends in Ireland.
   - **Demographics**: Select a year to see consumption by gender and age.
   - **Quarterly Insights**: Choose alcohol type and year to explore quarterly trends.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+    
 
 ## Author
 - Nishanth Gopinath

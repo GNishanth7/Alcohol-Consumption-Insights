@@ -1,0 +1,4432 @@
+Country Name,Year,Alcohol Consumption
+Africa Eastern And Southern,2001.0,5.432787988
+Afghanistan,2001.0,0.003
+Africa Western And Central,2001.0,5.715713377
+Angola,2001.0,5.19
+Albania,2001.0,4.43
+Andorra,2001.0,12.55
+Arab World,2001.0,0.369124901
+United Arab Emirates,2001.0,1.76
+Argentina,2001.0,6.73
+Armenia,2001.0,3.71
+Antigua And Barbuda,2001.0,5.29
+Australia,2001.0,10.55
+Austria,2001.0,12.89
+Azerbaijan,2001.0,1.57
+Burundi,2001.0,7.48
+Belgium,2001.0,11.42
+Benin,2001.0,2.52
+Burkina Faso,2001.0,7.86
+Bangladesh,2001.0,0.004
+Bulgaria,2001.0,11.37
+Bahrain,2001.0,2.69
+"Bahamas, The",2001.0,4.83
+Bosnia And Herzegovina,2001.0,4.92
+Belarus,2001.0,12.63
+Belize,2001.0,4.68
+Bolivia,2001.0,3.14
+Brazil,2001.0,8.71
+Barbados,2001.0,7.02
+Brunei Darussalam,2001.0,0.21
+Bhutan,2001.0,3.16
+Botswana,2001.0,6.94
+Central African Republic,2001.0,2.36
+Canada,2001.0,9.38
+Central Europe And The Baltics,2001.0,12.64512126
+Switzerland,2001.0,12.48
+Chile,2001.0,6.55
+China,2001.0,3.62
+Cote D'Ivoire,2001.0,4.21
+Cameroon,2001.0,10.74
+"Congo, Dem. Rep.",2001.0,8.29
+"Congo, Rep.",2001.0,2.83
+Colombia,2001.0,5.34
+Comoros,2001.0,0.16
+Cabo Verde,2001.0,4.57
+Costa Rica,2001.0,4.61
+Caribbean Small States,2001.0,5.781402273
+Cuba,2001.0,5.43
+Cyprus,2001.0,8.86
+Czechia,2001.0,14.22
+Germany,2001.0,13.82
+Djibouti,2001.0,0.65
+Dominica,2001.0,8.12
+Denmark,2001.0,11.69
+Dominican Republic,2001.0,7.91
+Algeria,2001.0,0.3
+East Asia & Pacific (Excluding High Income),2001.0,3.358449787
+Early-Demographic Dividend,2001.0,2.111427137
+East Asia & Pacific,2001.0,3.939624518
+Europe & Central Asia (Excluding High Income),2001.0,6.048317714
+Europe & Central Asia,2001.0,11.1700612
+Ecuador,2001.0,4.17
+"Egypt, Arab Rep.",2001.0,0.14
+Euro Area,2001.0,12.16981009
+Eritrea,2001.0,1.0
+Spain,2001.0,11.67
+Estonia,2001.0,10.45
+Ethiopia,2001.0,1.2
+European Union,2001.0,12.28009336
+Fragile And Conflict Affected Situations,2001.0,4.700498652
+Finland,2001.0,10.0
+Fiji,2001.0,2.41
+France,2001.0,13.72
+"Micronesia, Fed. Sts.",2001.0,3.39
+Gabon,2001.0,9.64
+United Kingdom,2001.0,12.28
+Georgia,2001.0,10.57
+Ghana,2001.0,5.32
+Guinea,2001.0,0.29
+"Gambia, The",2001.0,3.74
+Guinea-Bissau,2001.0,4.15
+Equatorial Guinea,2001.0,7.75
+Greece,2001.0,8.73
+Grenada,2001.0,7.69
+Guatemala,2001.0,2.41
+Guyana,2001.0,5.38
+High Income,2001.0,10.63599513
+Honduras,2001.0,3.09
+Heavily Indebted Poor Countries (Hipc),2001.0,4.432673199
+Croatia,2001.0,10.94
+Haiti,2001.0,4.14
+Hungary,2001.0,12.38
+Ibrd Only,2001.0,4.167852166
+Ida & Ibrd Total,2001.0,3.960147259
+Ida Total,2001.0,3.044976994
+Ida Blend,2001.0,3.665200568
+Indonesia,2001.0,0.083
+Ida Only,2001.0,2.732341727
+India,2001.0,1.97
+Ireland,2001.0,15.03
+"Iran, Islamic Rep.",2001.0,0.021
+Iraq,2001.0,0.19
+Iceland,2001.0,6.92
+Israel,2001.0,2.93
+Italy,2001.0,9.95
+Jamaica,2001.0,3.34
+Jordan,2001.0,0.49
+Japan,2001.0,7.66
+Kazakhstan,2001.0,6.64
+Kenya,2001.0,2.16
+Kyrgyz Republic,2001.0,5.53
+Cambodia,2001.0,1.81
+Kiribati,2001.0,1.47
+St. Kitts And Nevis,2001.0,6.46
+"Korea, Rep.",2001.0,10.93
+Kuwait,2001.0,0.0
+Latin America & Caribbean (Excluding High Income),2001.0,6.797841815
+Lao Pdr,2001.0,8.18
+Lebanon,2001.0,2.28
+Liberia,2001.0,4.5
+Libya,2001.0,0.007
+St. Lucia,2001.0,10.35
+Latin America & Caribbean,2001.0,6.837618958
+Least Developed Countries: Un Classification,2001.0,2.717935489
+Low Income,2001.0,3.475604857
+Sri Lanka,2001.0,1.88
+Lower Middle Income,2001.0,2.405006439
+Low & Middle Income,2001.0,3.400879159
+Lesotho,2001.0,3.76
+Late-Demographic Dividend,2001.0,5.353338123
+Lithuania,2001.0,11.5
+Luxembourg,2001.0,13.65
+Latvia,2001.0,8.9
+Morocco,2001.0,0.46
+Moldova,2001.0,10.36
+Madagascar,2001.0,1.46
+Maldives,2001.0,1.75
+Middle East & North Africa,2001.0,0.396990637
+Mexico,2001.0,6.16
+Middle Income,2001.0,3.395812135
+North Macedonia,2001.0,4.46
+Mali,2001.0,0.82
+Malta,2001.0,5.7
+Myanmar,2001.0,0.37
+Middle East & North Africa (Excluding High Income),2001.0,0.326036676
+Mongolia,2001.0,2.83
+Mozambique,2001.0,1.09
+Mauritania,2001.0,0.0
+Mauritius,2001.0,8.01
+Malawi,2001.0,3.0
+Malaysia,2001.0,0.62
+North America,2001.0,9.083199846
+Namibia,2001.0,4.65
+Niger,2001.0,0.14
+Nigeria,2001.0,7.93
+Nicaragua,2001.0,3.93
+Netherlands,2001.0,11.14
+Norway,2001.0,6.63
+Nepal,2001.0,0.2
+Nauru,2001.0,4.47
+New Zealand,2001.0,9.77
+Oecd Members,2001.0,9.496053428
+Oman,2001.0,0.82
+Other Small States,2001.0,5.897804885
+Pakistan,2001.0,0.033
+Panama,2001.0,5.37
+Peru,2001.0,6.03
+Philippines,2001.0,5.82
+Papua New Guinea,2001.0,2.18
+Poland,2001.0,9.65
+Pre-Demographic Dividend,2001.0,5.38036733
+"Korea, Dem. People'S Rep.",2001.0,3.87
+Portugal,2001.0,12.77
+Paraguay,2001.0,5.68
+Pacific Island Small States,2001.0,2.086876008
+Post-Demographic Dividend,2001.0,10.33500191
+Qatar,2001.0,0.94
+Romania,2001.0,19.05
+Russian Federation,2001.0,13.86
+Rwanda,2001.0,1.43
+South Asia,2001.0,1.550501897
+Saudi Arabia,2001.0,0.0
+Sudan,2001.0,0.0
+Senegal,2001.0,0.47
+Singapore,2001.0,2.28
+Solomon Islands,2001.0,0.76
+Sierra Leone,2001.0,0.22
+El Salvador,2001.0,3.14
+Somalia,2001.0,0.0
+Sub-Saharan Africa (Excluding High Income),2001.0,5.54787284
+Sub-Saharan Africa,2001.0,5.548165622
+Small States,2001.0,5.406978741
+Sao Tome And Principe,2001.0,6.74
+Suriname,2001.0,4.74
+Slovak Republic,2001.0,11.09
+Slovenia,2001.0,12.1
+Sweden,2001.0,9.37
+Eswatini,2001.0,9.43
+Seychelles,2001.0,7.41
+Syrian Arab Republic,2001.0,1.29
+Chad,2001.0,2.51
+East Asia & Pacific (Ida & Ibrd Countries),2001.0,3.351692929
+Europe & Central Asia (Ida & Ibrd Countries),2001.0,10.12283199
+Togo,2001.0,1.5
+Thailand,2001.0,8.61
+Tajikistan,2001.0,0.9
+Turkmenistan,2001.0,2.63
+Latin America & The Caribbean (Ida & Ibrd Countries),2001.0,6.87503561
+Timor-Leste,2001.0,0.55
+Middle East & North Africa (Ida & Ibrd Countries),2001.0,0.326036676
+Tonga,2001.0,1.46
+South Asia (Ida & Ibrd),2001.0,1.550501897
+Sub-Saharan Africa (Ida & Ibrd Countries),2001.0,5.548165622
+Trinidad And Tobago,2001.0,5.01
+Tunisia,2001.0,1.63
+Turkiye,2001.0,2.46
+Tuvalu,2001.0,1.76
+Tanzania,2001.0,11.43
+Uganda,2001.0,17.79
+Ukraine,2001.0,10.58
+Upper Middle Income,2001.0,4.164306879
+Uruguay,2001.0,6.97
+United States,2001.0,9.05
+Uzbekistan,2001.0,3.54
+St. Vincent And The Grenadines,2001.0,4.59
+"Venezuela, Rb",2001.0,8.17
+Viet Nam,2001.0,3.28
+Vanuatu,2001.0,1.27
+World,2001.0,5.106523418
+Samoa,2001.0,4.04
+"Yemen, Rep.",2001.0,0.12
+South Africa,2001.0,8.96
+Zambia,2001.0,3.56
+Zimbabwe,2001.0,3.03
+Africa Eastern And Southern,2002.0,5.427484485
+Afghanistan,2002.0,0.003
+Africa Western And Central,2002.0,5.714247285
+Angola,2002.0,5.19
+Albania,2002.0,4.43
+Andorra,2002.0,12.55
+Arab World,2002.0,0.369311969
+United Arab Emirates,2002.0,1.76
+Argentina,2002.0,6.73
+Armenia,2002.0,3.71
+Antigua And Barbuda,2002.0,5.29
+Australia,2002.0,10.55
+Austria,2002.0,12.89
+Azerbaijan,2002.0,1.57
+Burundi,2002.0,7.48
+Belgium,2002.0,11.42
+Benin,2002.0,2.52
+Burkina Faso,2002.0,7.86
+Bangladesh,2002.0,0.004
+Bulgaria,2002.0,11.37
+Bahrain,2002.0,2.69
+"Bahamas, The",2002.0,4.83
+Bosnia And Herzegovina,2002.0,4.92
+Belarus,2002.0,12.63
+Belize,2002.0,4.68
+Bolivia,2002.0,3.14
+Brazil,2002.0,8.71
+Barbados,2002.0,7.02
+Brunei Darussalam,2002.0,0.21
+Bhutan,2002.0,3.16
+Botswana,2002.0,6.94
+Central African Republic,2002.0,2.36
+Canada,2002.0,9.38
+Central Europe And The Baltics,2002.0,12.63080984
+Switzerland,2002.0,12.48
+Chile,2002.0,6.55
+China,2002.0,3.62
+Cote D'Ivoire,2002.0,4.21
+Cameroon,2002.0,10.74
+"Congo, Dem. Rep.",2002.0,8.29
+"Congo, Rep.",2002.0,2.83
+Colombia,2002.0,5.34
+Comoros,2002.0,0.16
+Cabo Verde,2002.0,4.57
+Costa Rica,2002.0,4.61
+Caribbean Small States,2002.0,5.777364842
+Cuba,2002.0,5.43
+Cyprus,2002.0,8.86
+Czechia,2002.0,14.22
+Germany,2002.0,13.82
+Djibouti,2002.0,0.65
+Dominica,2002.0,8.12
+Denmark,2002.0,11.69
+Dominican Republic,2002.0,7.91
+Algeria,2002.0,0.3
+East Asia & Pacific (Excluding High Income),2002.0,3.357763897
+Early-Demographic Dividend,2002.0,2.107611748
+East Asia & Pacific,2002.0,3.933649923
+Europe & Central Asia (Excluding High Income),2002.0,6.008081128
+Europe & Central Asia,2002.0,11.15151743
+Ecuador,2002.0,4.17
+"Egypt, Arab Rep.",2002.0,0.14
+Euro Area,2002.0,12.17243257
+Eritrea,2002.0,1.0
+Spain,2002.0,11.67
+Estonia,2002.0,10.45
+Ethiopia,2002.0,1.2
+European Union,2002.0,12.27729729
+Fragile And Conflict Affected Situations,2002.0,4.683004197
+Finland,2002.0,10.0
+Fiji,2002.0,2.41
+France,2002.0,13.72
+"Micronesia, Fed. Sts.",2002.0,3.39
+Gabon,2002.0,9.64
+United Kingdom,2002.0,12.28
+Georgia,2002.0,10.57
+Ghana,2002.0,5.32
+Guinea,2002.0,0.29
+"Gambia, The",2002.0,3.74
+Guinea-Bissau,2002.0,4.15
+Equatorial Guinea,2002.0,7.75
+Greece,2002.0,8.73
+Grenada,2002.0,7.69
+Guatemala,2002.0,2.41
+Guyana,2002.0,5.38
+High Income,2002.0,10.62361837
+Honduras,2002.0,3.09
+Heavily Indebted Poor Countries (Hipc),2002.0,4.436546719
+Croatia,2002.0,10.94
+Haiti,2002.0,4.14
+Hungary,2002.0,12.38
+Ibrd Only,2002.0,4.150666765
+Ida & Ibrd Total,2002.0,3.944189889
+Ida Total,2002.0,3.042757408
+Ida Blend,2002.0,3.645109676
+Indonesia,2002.0,0.083
+Ida Only,2002.0,2.737376301
+India,2002.0,1.97
+Ireland,2002.0,15.03
+"Iran, Islamic Rep.",2002.0,0.021
+Iraq,2002.0,0.19
+Iceland,2002.0,6.92
+Israel,2002.0,2.93
+Italy,2002.0,9.95
+Jamaica,2002.0,3.34
+Jordan,2002.0,0.49
+Japan,2002.0,7.66
+Kazakhstan,2002.0,6.64
+Kenya,2002.0,2.16
+Kyrgyz Republic,2002.0,5.53
+Cambodia,2002.0,1.81
+Kiribati,2002.0,1.47
+St. Kitts And Nevis,2002.0,6.46
+"Korea, Rep.",2002.0,10.93
+Kuwait,2002.0,0.0
+Latin America & Caribbean (Excluding High Income),2002.0,6.796880224
+Lao Pdr,2002.0,8.18
+Lebanon,2002.0,2.28
+Liberia,2002.0,4.5
+Libya,2002.0,0.007
+St. Lucia,2002.0,10.35
+Latin America & Caribbean,2002.0,6.837026592
+Least Developed Countries: Un Classification,2002.0,2.723992608
+Low Income,2002.0,3.476042466
+Sri Lanka,2002.0,1.88
+Lower Middle Income,2002.0,2.404287597
+Low & Middle Income,2002.0,3.394207522
+Lesotho,2002.0,3.76
+Late-Demographic Dividend,2002.0,5.339486484
+Lithuania,2002.0,11.5
+Luxembourg,2002.0,13.65
+Latvia,2002.0,8.9
+Morocco,2002.0,0.46
+Moldova,2002.0,10.36
+Madagascar,2002.0,1.46
+Maldives,2002.0,1.75
+Middle East & North Africa,2002.0,0.395892945
+Mexico,2002.0,6.16
+Middle Income,2002.0,3.388622599
+North Macedonia,2002.0,4.46
+Mali,2002.0,0.82
+Malta,2002.0,5.7
+Myanmar,2002.0,0.37
+Middle East & North Africa (Excluding High Income),2002.0,0.324706062
+Mongolia,2002.0,2.83
+Mozambique,2002.0,1.09
+Mauritania,2002.0,0.0
+Mauritius,2002.0,8.01
+Malawi,2002.0,3.0
+Malaysia,2002.0,0.62
+North America,2002.0,9.083286288
+Namibia,2002.0,4.65
+Niger,2002.0,0.14
+Nigeria,2002.0,7.93
+Nicaragua,2002.0,3.93
+Netherlands,2002.0,11.14
+Norway,2002.0,6.63
+Nepal,2002.0,0.2
+Nauru,2002.0,4.47
+New Zealand,2002.0,9.77
+Oecd Members,2002.0,9.48428026
+Oman,2002.0,0.82
+Other Small States,2002.0,5.865545579
+Pakistan,2002.0,0.033
+Panama,2002.0,5.37
+Peru,2002.0,6.03
+Philippines,2002.0,5.82
+Papua New Guinea,2002.0,2.18
+Poland,2002.0,9.65
+Pre-Demographic Dividend,2002.0,5.380259194
+"Korea, Dem. People'S Rep.",2002.0,3.87
+Portugal,2002.0,12.77
+Paraguay,2002.0,5.68
+Pacific Island Small States,2002.0,2.080624351
+Post-Demographic Dividend,2002.0,10.33197361
+Qatar,2002.0,0.94
+Romania,2002.0,19.05
+Russian Federation,2002.0,13.86
+Rwanda,2002.0,1.43
+South Asia,2002.0,1.548111844
+Saudi Arabia,2002.0,0.0
+Sudan,2002.0,0.0
+Senegal,2002.0,0.47
+Singapore,2002.0,2.28
+Solomon Islands,2002.0,0.76
+Sierra Leone,2002.0,0.22
+El Salvador,2002.0,3.14
+Somalia,2002.0,0.0
+Sub-Saharan Africa (Excluding High Income),2002.0,5.544079392
+Sub-Saharan Africa,2002.0,5.544366619
+Small States,2002.0,5.382803462
+Sao Tome And Principe,2002.0,6.74
+Suriname,2002.0,4.74
+Slovak Republic,2002.0,11.09
+Slovenia,2002.0,12.1
+Sweden,2002.0,9.37
+Eswatini,2002.0,9.43
+Seychelles,2002.0,7.41
+Syrian Arab Republic,2002.0,1.29
+Chad,2002.0,2.51
+East Asia & Pacific (Ida & Ibrd Countries),2002.0,3.351053543
+Europe & Central Asia (Ida & Ibrd Countries),2002.0,10.08480645
+Togo,2002.0,1.5
+Thailand,2002.0,8.61
+Tajikistan,2002.0,0.9
+Turkmenistan,2002.0,2.63
+Latin America & The Caribbean (Ida & Ibrd Countries),2002.0,6.873917453
+Timor-Leste,2002.0,0.55
+Middle East & North Africa (Ida & Ibrd Countries),2002.0,0.324706062
+Tonga,2002.0,1.46
+South Asia (Ida & Ibrd),2002.0,1.548111844
+Sub-Saharan Africa (Ida & Ibrd Countries),2002.0,5.544366619
+Trinidad And Tobago,2002.0,5.01
+Tunisia,2002.0,1.63
+Turkiye,2002.0,2.46
+Tuvalu,2002.0,1.76
+Tanzania,2002.0,11.43
+Uganda,2002.0,17.79
+Ukraine,2002.0,10.58
+Upper Middle Income,2002.0,4.157357306
+Uruguay,2002.0,6.97
+United States,2002.0,9.05
+Uzbekistan,2002.0,3.54
+St. Vincent And The Grenadines,2002.0,4.59
+"Venezuela, Rb",2002.0,8.17
+Viet Nam,2002.0,3.28
+Vanuatu,2002.0,1.27
+World,2002.0,5.080297532
+Samoa,2002.0,4.04
+"Yemen, Rep.",2002.0,0.12
+South Africa,2002.0,8.96
+Zambia,2002.0,3.56
+Zimbabwe,2002.0,3.03
+Africa Eastern And Southern,2003.0,5.283962967
+Afghanistan,2003.0,0.007
+Africa Western And Central,2003.0,5.748645315
+Angola,2003.0,5.43
+Albania,2003.0,4.57
+Andorra,2003.0,12.39
+Arab World,2003.0,0.364366846
+United Arab Emirates,2003.0,1.76
+Argentina,2003.0,6.17
+Armenia,2003.0,3.73
+Antigua And Barbuda,2003.0,5.21
+Australia,2003.0,10.48
+Austria,2003.0,12.63
+Azerbaijan,2003.0,1.59
+Burundi,2003.0,7.1
+Belgium,2003.0,11.39
+Benin,2003.0,2.57
+Burkina Faso,2003.0,8.24
+Bangladesh,2003.0,0.003
+Bulgaria,2003.0,11.58
+Bahrain,2003.0,2.51
+"Bahamas, The",2003.0,4.64
+Bosnia And Herzegovina,2003.0,5.07
+Belarus,2003.0,12.07
+Belize,2003.0,5.07
+Bolivia,2003.0,3.12
+Brazil,2003.0,8.57
+Barbados,2003.0,7.02
+Brunei Darussalam,2003.0,0.15
+Bhutan,2003.0,2.2
+Botswana,2003.0,7.04
+Central African Republic,2003.0,2.33
+Canada,2003.0,9.45
+Central Europe And The Baltics,2003.0,12.78676621
+Switzerland,2003.0,12.33
+Chile,2003.0,6.59
+China,2003.0,3.38
+Cote D'Ivoire,2003.0,4.36
+Cameroon,2003.0,11.07
+"Congo, Dem. Rep.",2003.0,8.43
+"Congo, Rep.",2003.0,2.93
+Colombia,2003.0,5.2
+Comoros,2003.0,0.27
+Cabo Verde,2003.0,4.67
+Costa Rica,2003.0,4.54
+Caribbean Small States,2003.0,5.935985556
+Cuba,2003.0,5.58
+Cyprus,2003.0,9.11
+Czechia,2003.0,14.21
+Germany,2003.0,13.48
+Djibouti,2003.0,0.66
+Dominica,2003.0,7.87
+Denmark,2003.0,11.64
+Dominican Republic,2003.0,7.8
+Algeria,2003.0,0.33
+East Asia & Pacific (Excluding High Income),2003.0,3.20453987
+Early-Demographic Dividend,2003.0,2.141358246
+East Asia & Pacific,2003.0,3.760918824
+Europe & Central Asia (Excluding High Income),2003.0,5.963307703
+Europe & Central Asia,2003.0,11.13553405
+Ecuador,2003.0,4.07
+"Egypt, Arab Rep.",2003.0,0.14
+Euro Area,2003.0,11.98629896
+Eritrea,2003.0,0.9
+Spain,2003.0,11.48
+Estonia,2003.0,11.12
+Ethiopia,2003.0,1.15
+European Union,2003.0,12.17629863
+Fragile And Conflict Affected Situations,2003.0,4.65085693
+Finland,2003.0,10.14
+Fiji,2003.0,2.37
+France,2003.0,13.57
+"Micronesia, Fed. Sts.",2003.0,3.74
+Gabon,2003.0,8.88
+United Kingdom,2003.0,12.42
+Georgia,2003.0,10.21
+Ghana,2003.0,5.29
+Guinea,2003.0,0.3
+"Gambia, The",2003.0,3.86
+Guinea-Bissau,2003.0,3.82
+Equatorial Guinea,2003.0,8.1
+Greece,2003.0,8.77
+Grenada,2003.0,7.83
+Guatemala,2003.0,2.35
+Guyana,2003.0,5.84
+High Income,2003.0,10.5827276
+Honduras,2003.0,3.24
+Heavily Indebted Poor Countries (Hipc),2003.0,4.361943375
+Croatia,2003.0,10.86
+Haiti,2003.0,4.11
+Hungary,2003.0,12.67
+Ibrd Only,2003.0,4.088407314
+Ida & Ibrd Total,2003.0,3.88857689
+Ida Total,2003.0,3.023645717
+Ida Blend,2003.0,3.64807232
+Indonesia,2003.0,0.077
+Ida Only,2003.0,2.706892285
+India,2003.0,2.11
+Ireland,2003.0,14.75
+"Iran, Islamic Rep.",2003.0,0.03
+Iraq,2003.0,0.11
+Iceland,2003.0,7.04
+Israel,2003.0,2.87
+Italy,2003.0,9.8
+Jamaica,2003.0,3.15
+Jordan,2003.0,0.49
+Japan,2003.0,7.32
+Kazakhstan,2003.0,6.77
+Kenya,2003.0,2.16
+Kyrgyz Republic,2003.0,6.27
+Cambodia,2003.0,2.01
+Kiribati,2003.0,1.42
+St. Kitts And Nevis,2003.0,6.53
+"Korea, Rep.",2003.0,10.71
+Kuwait,2003.0,0.0
+Latin America & Caribbean (Excluding High Income),2003.0,6.658441439
+Lao Pdr,2003.0,7.38
+Lebanon,2003.0,2.2
+Liberia,2003.0,4.42
+Libya,2003.0,0.007
+St. Lucia,2003.0,10.7
+Latin America & Caribbean,2003.0,6.688902861
+Least Developed Countries: Un Classification,2003.0,2.683009464
+Low Income,2003.0,3.454357996
+Sri Lanka,2003.0,1.96
+Lower Middle Income,2003.0,2.477754533
+Low & Middle Income,2003.0,3.334733949
+Lesotho,2003.0,3.7
+Late-Demographic Dividend,2003.0,5.205974402
+Lithuania,2003.0,11.92
+Luxembourg,2003.0,13.41
+Latvia,2003.0,9.18
+Morocco,2003.0,0.47
+Moldova,2003.0,11.19
+Madagascar,2003.0,1.25
+Maldives,2003.0,1.66
+Middle East & North Africa,2003.0,0.391701223
+Mexico,2003.0,6.1
+Middle Income,2003.0,3.326489286
+North Macedonia,2003.0,4.73
+Mali,2003.0,0.81
+Malta,2003.0,5.86
+Myanmar,2003.0,0.52
+Middle East & North Africa (Excluding High Income),2003.0,0.320604534
+Mongolia,2003.0,2.64
+Mozambique,2003.0,1.06
+Mauritania,2003.0,0.0
+Mauritius,2003.0,7.93
+Malawi,2003.0,2.93
+Malaysia,2003.0,0.61
+North America,2003.0,9.144395201
+Namibia,2003.0,4.57
+Niger,2003.0,0.14
+Nigeria,2003.0,7.9
+Nicaragua,2003.0,3.98
+Netherlands,2003.0,10.91
+Norway,2003.0,6.76
+Nepal,2003.0,0.25
+Nauru,2003.0,3.37
+New Zealand,2003.0,9.8
+Oecd Members,2003.0,9.393642363
+Oman,2003.0,0.89
+Other Small States,2003.0,5.915998454
+Pakistan,2003.0,0.031
+Panama,2003.0,5.31
+Peru,2003.0,5.89
+Philippines,2003.0,5.77
+Papua New Guinea,2003.0,2.09
+Poland,2003.0,9.83
+Pre-Demographic Dividend,2003.0,5.312590593
+"Korea, Dem. People'S Rep.",2003.0,3.77
+Portugal,2003.0,12.6
+Paraguay,2003.0,5.29
+Pacific Island Small States,2003.0,2.056949371
+Post-Demographic Dividend,2003.0,10.23951476
+Qatar,2003.0,1.11
+Romania,2003.0,19.4
+Russian Federation,2003.0,14.12
+Rwanda,2003.0,1.42
+South Asia,2003.0,1.654753497
+Saudi Arabia,2003.0,0.0
+Sudan,2003.0,0.0
+Senegal,2003.0,0.5
+Singapore,2003.0,2.06
+Solomon Islands,2003.0,0.66
+Sierra Leone,2003.0,0.24
+El Salvador,2003.0,3.23
+Somalia,2003.0,0.0
+Sub-Saharan Africa (Excluding High Income),2003.0,5.47289757
+Sub-Saharan Africa,2003.0,5.473240124
+Small States,2003.0,5.443651506
+Sao Tome And Principe,2003.0,7.26
+Suriname,2003.0,4.79
+Slovak Republic,2003.0,10.72
+Slovenia,2003.0,11.69
+Sweden,2003.0,9.57
+Eswatini,2003.0,9.44
+Seychelles,2003.0,7.68
+Syrian Arab Republic,2003.0,1.26
+Chad,2003.0,2.91
+East Asia & Pacific (Ida & Ibrd Countries),2003.0,3.197196028
+Europe & Central Asia (Ida & Ibrd Countries),2003.0,10.17628795
+Togo,2003.0,1.42
+Thailand,2003.0,8.92
+Tajikistan,2003.0,0.89
+Turkmenistan,2003.0,2.52
+Latin America & The Caribbean (Ida & Ibrd Countries),2003.0,6.717905022
+Timor-Leste,2003.0,0.53
+Middle East & North Africa (Ida & Ibrd Countries),2003.0,0.320604534
+Tonga,2003.0,1.53
+South Asia (Ida & Ibrd),2003.0,1.654753497
+Sub-Saharan Africa (Ida & Ibrd Countries),2003.0,5.473240124
+Trinidad And Tobago,2003.0,5.22
+Tunisia,2003.0,1.62
+Turkiye,2003.0,2.41
+Tuvalu,2003.0,1.84
+Tanzania,2003.0,10.3
+Uganda,2003.0,17.58
+Ukraine,2003.0,10.52
+Upper Middle Income,2003.0,3.993130671
+Uruguay,2003.0,6.39
+United States,2003.0,9.11
+Uzbekistan,2003.0,3.7
+St. Vincent And The Grenadines,2003.0,4.65
+"Venezuela, Rb",2003.0,7.71
+Viet Nam,2003.0,3.5
+Vanuatu,2003.0,1.28
+World,2003.0,5.005615987
+Samoa,2003.0,4.1
+"Yemen, Rep.",2003.0,0.11
+South Africa,2003.0,8.79
+Zambia,2003.0,3.45
+Zimbabwe,2003.0,2.92
+Africa Eastern And Southern,2004.0,5.243653475
+Afghanistan,2004.0,0.016
+Africa Western And Central,2004.0,5.752898357
+Angola,2004.0,5.58
+Albania,2004.0,4.58
+Andorra,2004.0,12.12
+Arab World,2004.0,0.366944473
+United Arab Emirates,2004.0,1.76
+Argentina,2004.0,5.84
+Armenia,2004.0,4.03
+Antigua And Barbuda,2004.0,5.1
+Australia,2004.0,10.57
+Austria,2004.0,12.53
+Azerbaijan,2004.0,1.63
+Burundi,2004.0,6.85
+Belgium,2004.0,11.41
+Benin,2004.0,2.54
+Burkina Faso,2004.0,8.23
+Bangladesh,2004.0,0.003
+Bulgaria,2004.0,11.32
+Bahrain,2004.0,2.38
+"Bahamas, The",2004.0,4.56
+Bosnia And Herzegovina,2004.0,5.16
+Belarus,2004.0,12.49
+Belize,2004.0,5.45
+Bolivia,2004.0,3.28
+Brazil,2004.0,8.41
+Barbados,2004.0,7.16
+Brunei Darussalam,2004.0,0.072
+Bhutan,2004.0,1.85
+Botswana,2004.0,7.0
+Central African Republic,2004.0,2.29
+Canada,2004.0,9.5
+Central Europe And The Baltics,2004.0,12.8927678
+Switzerland,2004.0,12.12
+Chile,2004.0,6.66
+China,2004.0,3.25
+Cote D'Ivoire,2004.0,4.35
+Cameroon,2004.0,11.16
+"Congo, Dem. Rep.",2004.0,8.68
+"Congo, Rep.",2004.0,2.92
+Colombia,2004.0,5.14
+Comoros,2004.0,0.38
+Cabo Verde,2004.0,4.81
+Costa Rica,2004.0,4.5
+Caribbean Small States,2004.0,6.089187945
+Cuba,2004.0,5.71
+Cyprus,2004.0,9.79
+Czechia,2004.0,14.13
+Germany,2004.0,13.26
+Djibouti,2004.0,0.67
+Dominica,2004.0,7.93
+Denmark,2004.0,11.55
+Dominican Republic,2004.0,7.45
+Algeria,2004.0,0.41
+East Asia & Pacific (Excluding High Income),2004.0,3.140925266
+Early-Demographic Dividend,2004.0,2.176888472
+East Asia & Pacific,2004.0,3.678061538
+Europe & Central Asia (Excluding High Income),2004.0,5.919082902
+Europe & Central Asia,2004.0,11.0960537
+Ecuador,2004.0,3.92
+"Egypt, Arab Rep.",2004.0,0.14
+Euro Area,2004.0,11.80327974
+Eritrea,2004.0,0.86
+Spain,2004.0,11.25
+Estonia,2004.0,12.5
+Ethiopia,2004.0,1.14
+European Union,2004.0,12.05612267
+Fragile And Conflict Affected Situations,2004.0,4.614439727
+Finland,2004.0,10.45
+Fiji,2004.0,2.45
+France,2004.0,13.26
+"Micronesia, Fed. Sts.",2004.0,3.42
+Gabon,2004.0,8.28
+United Kingdom,2004.0,12.5
+Georgia,2004.0,10.46
+Ghana,2004.0,5.22
+Guinea,2004.0,0.39
+"Gambia, The",2004.0,3.94
+Guinea-Bissau,2004.0,3.81
+Equatorial Guinea,2004.0,8.5
+Greece,2004.0,8.85
+Grenada,2004.0,7.92
+Guatemala,2004.0,2.31
+Guyana,2004.0,6.12
+High Income,2004.0,10.5424659
+Honduras,2004.0,3.31
+Heavily Indebted Poor Countries (Hipc),2004.0,4.34315825
+Croatia,2004.0,10.54
+Haiti,2004.0,4.09
+Hungary,2004.0,12.69
+Ibrd Only,2004.0,4.061985485
+Ida & Ibrd Total,2004.0,3.867038851
+Ida Total,2004.0,3.030342558
+Ida Blend,2004.0,3.65352851
+Indonesia,2004.0,0.074
+Ida Only,2004.0,2.714654941
+India,2004.0,2.21
+Ireland,2004.0,14.43
+"Iran, Islamic Rep.",2004.0,0.044
+Iraq,2004.0,0.058
+Iceland,2004.0,7.16
+Israel,2004.0,2.83
+Italy,2004.0,9.57
+Jamaica,2004.0,3.1
+Jordan,2004.0,0.49
+Japan,2004.0,7.27
+Kazakhstan,2004.0,6.99
+Kenya,2004.0,2.06
+Kyrgyz Republic,2004.0,6.55
+Cambodia,2004.0,2.25
+Kiribati,2004.0,1.23
+St. Kitts And Nevis,2004.0,6.71
+"Korea, Rep.",2004.0,9.96
+Kuwait,2004.0,0.0
+Latin America & Caribbean (Excluding High Income),2004.0,6.562960216
+Lao Pdr,2004.0,7.57
+Lebanon,2004.0,2.1
+Liberia,2004.0,4.38
+Libya,2004.0,0.028
+St. Lucia,2004.0,10.81
+Latin America & Caribbean,2004.0,6.596444122
+Least Developed Countries: Un Classification,2004.0,2.699244165
+Low Income,2004.0,3.461963825
+Sri Lanka,2004.0,1.87
+Lower Middle Income,2004.0,2.551882355
+Low & Middle Income,2004.0,3.314073556
+Lesotho,2004.0,3.65
+Late-Demographic Dividend,2004.0,5.144466972
+Lithuania,2004.0,12.49
+Luxembourg,2004.0,13.13
+Latvia,2004.0,9.74
+Morocco,2004.0,0.48
+Moldova,2004.0,11.97
+Madagascar,2004.0,1.07
+Maldives,2004.0,1.62
+Middle East & North Africa,2004.0,0.395529883
+Mexico,2004.0,6.09
+Middle Income,2004.0,3.303767027
+North Macedonia,2004.0,4.94
+Mali,2004.0,0.8
+Malta,2004.0,6.02
+Myanmar,2004.0,0.67
+Middle East & North Africa (Excluding High Income),2004.0,0.325022275
+Mongolia,2004.0,2.44
+Mozambique,2004.0,1.05
+Mauritania,2004.0,0.0
+Mauritius,2004.0,7.9
+Malawi,2004.0,2.9
+Malaysia,2004.0,0.62
+North America,2004.0,9.203442706
+Namibia,2004.0,4.55
+Niger,2004.0,0.14
+Nigeria,2004.0,7.92
+Nicaragua,2004.0,4.08
+Netherlands,2004.0,10.81
+Norway,2004.0,7.0
+Nepal,2004.0,0.31
+Nauru,2004.0,3.27
+New Zealand,2004.0,9.95
+Oecd Members,2004.0,9.324892745
+Oman,2004.0,0.98
+Other Small States,2004.0,6.092428832
+Pakistan,2004.0,0.032
+Panama,2004.0,5.36
+Peru,2004.0,6.02
+Philippines,2004.0,5.76
+Papua New Guinea,2004.0,1.92
+Poland,2004.0,10.24
+Pre-Demographic Dividend,2004.0,5.292740039
+"Korea, Dem. People'S Rep.",2004.0,3.99
+Portugal,2004.0,12.48
+Paraguay,2004.0,5.19
+Pacific Island Small States,2004.0,2.118938852
+Post-Demographic Dividend,2004.0,10.14987516
+Qatar,2004.0,1.22
+Romania,2004.0,19.29
+Russian Federation,2004.0,14.33
+Rwanda,2004.0,1.37
+South Asia,2004.0,1.729366063
+Saudi Arabia,2004.0,0.0
+Sudan,2004.0,0.0
+Senegal,2004.0,0.49
+Singapore,2004.0,1.83
+Solomon Islands,2004.0,0.91
+Sierra Leone,2004.0,0.26
+El Salvador,2004.0,3.24
+Somalia,2004.0,0.0
+Sub-Saharan Africa (Excluding High Income),2004.0,5.450646394
+Sub-Saharan Africa,2004.0,5.450994443
+Small States,2004.0,5.602060717
+Sao Tome And Principe,2004.0,7.7
+Suriname,2004.0,4.93
+Slovak Republic,2004.0,10.5
+Slovenia,2004.0,11.19
+Sweden,2004.0,9.54
+Eswatini,2004.0,8.63
+Seychelles,2004.0,7.77
+Syrian Arab Republic,2004.0,1.21
+Chad,2004.0,2.95
+East Asia & Pacific (Ida & Ibrd Countries),2004.0,3.129983301
+Europe & Central Asia (Ida & Ibrd Countries),2004.0,10.23617824
+Togo,2004.0,1.42
+Thailand,2004.0,9.07
+Tajikistan,2004.0,0.86
+Turkmenistan,2004.0,2.59
+Latin America & The Caribbean (Ida & Ibrd Countries),2004.0,6.619609517
+Timor-Leste,2004.0,0.5
+Middle East & North Africa (Ida & Ibrd Countries),2004.0,0.325022275
+Tonga,2004.0,1.53
+South Asia (Ida & Ibrd),2004.0,1.729366063
+Sub-Saharan Africa (Ida & Ibrd Countries),2004.0,5.450994443
+Trinidad And Tobago,2004.0,5.55
+Tunisia,2004.0,1.63
+Turkiye,2004.0,2.34
+Tuvalu,2004.0,1.89
+Tanzania,2004.0,10.07
+Uganda,2004.0,17.34
+Ukraine,2004.0,10.24
+Upper Middle Income,2004.0,3.897664616
+Uruguay,2004.0,6.04
+United States,2004.0,9.17
+Uzbekistan,2004.0,3.85
+St. Vincent And The Grenadines,2004.0,4.8
+"Venezuela, Rb",2004.0,7.54
+Viet Nam,2004.0,3.92
+Vanuatu,2004.0,1.34
+World,2004.0,4.962658178
+Samoa,2004.0,4.11
+"Yemen, Rep.",2004.0,0.093
+South Africa,2004.0,8.72
+Zambia,2004.0,3.37
+Zimbabwe,2004.0,2.86
+Africa Eastern And Southern,2005.0,5.077484859
+Afghanistan,2005.0,0.021
+Africa Western And Central,2005.0,5.769565
+Angola,2005.0,6.08
+Albania,2005.0,4.98
+Andorra,2005.0,12.19
+Arab World,2005.0,0.377117073
+United Arab Emirates,2005.0,1.78
+Argentina,2005.0,5.95
+Armenia,2005.0,4.49
+Antigua And Barbuda,2005.0,5.43
+Australia,2005.0,10.72
+Austria,2005.0,12.59
+Azerbaijan,2005.0,1.7
+Burundi,2005.0,6.56
+Belgium,2005.0,11.3
+Benin,2005.0,2.52
+Burkina Faso,2005.0,8.37
+Bangladesh,2005.0,0.002
+Bulgaria,2005.0,11.02
+Bahrain,2005.0,2.29
+"Bahamas, The",2005.0,4.55
+Bosnia And Herzegovina,2005.0,5.37
+Belarus,2005.0,12.32
+Belize,2005.0,5.86
+Bolivia,2005.0,3.49
+Brazil,2005.0,8.32
+Barbados,2005.0,7.42
+Brunei Darussalam,2005.0,0.069
+Bhutan,2005.0,2.29
+Botswana,2005.0,6.97
+Central African Republic,2005.0,2.28
+Canada,2005.0,9.6
+Central Europe And The Baltics,2005.0,12.85941809
+Switzerland,2005.0,11.88
+Chile,2005.0,7.16
+China,2005.0,3.26
+Cote D'Ivoire,2005.0,4.35
+Cameroon,2005.0,11.28
+"Congo, Dem. Rep.",2005.0,7.08
+"Congo, Rep.",2005.0,2.88
+Colombia,2005.0,5.12
+Comoros,2005.0,0.47
+Cabo Verde,2005.0,4.84
+Costa Rica,2005.0,4.47
+Caribbean Small States,2005.0,6.201531221
+Cuba,2005.0,5.84
+Cyprus,2005.0,9.7
+Czechia,2005.0,14.09
+Germany,2005.0,13.07
+Djibouti,2005.0,0.67
+Dominica,2005.0,7.93
+Denmark,2005.0,11.52
+Dominican Republic,2005.0,7.17
+Algeria,2005.0,0.46
+East Asia & Pacific (Excluding High Income),2005.0,3.176552075
+Early-Demographic Dividend,2005.0,2.217049699
+East Asia & Pacific,2005.0,3.705574048
+Europe & Central Asia (Excluding High Income),2005.0,5.883764305
+Europe & Central Asia,2005.0,11.03196519
+Ecuador,2005.0,3.81
+"Egypt, Arab Rep.",2005.0,0.15
+Euro Area,2005.0,11.65975886
+Eritrea,2005.0,0.89
+Spain,2005.0,11.71
+Estonia,2005.0,13.64
+Ethiopia,2005.0,1.21
+European Union,2005.0,11.92839484
+Fragile And Conflict Affected Situations,2005.0,4.489688035
+Finland,2005.0,10.68
+Fiji,2005.0,2.53
+France,2005.0,12.94
+"Micronesia, Fed. Sts.",2005.0,3.07
+Gabon,2005.0,8.27
+United Kingdom,2005.0,12.51
+Georgia,2005.0,11.09
+Ghana,2005.0,5.12
+Guinea,2005.0,0.38
+"Gambia, The",2005.0,3.95
+Guinea-Bissau,2005.0,4.08
+Equatorial Guinea,2005.0,8.94
+Greece,2005.0,9.23
+Grenada,2005.0,7.92
+Guatemala,2005.0,2.29
+Guyana,2005.0,6.02
+High Income,2005.0,10.52741724
+Honduras,2005.0,3.34
+Heavily Indebted Poor Countries (Hipc),2005.0,4.203644214
+Croatia,2005.0,9.86
+Haiti,2005.0,4.03
+Hungary,2005.0,12.59
+Ibrd Only,2005.0,4.087782801
+Ida & Ibrd Total,2005.0,3.878534878
+Ida Total,2005.0,2.988067663
+Ida Blend,2005.0,3.675356636
+Indonesia,2005.0,0.077
+Ida Only,2005.0,2.639835957
+India,2005.0,2.29
+Ireland,2005.0,14.13
+"Iran, Islamic Rep.",2005.0,0.063
+Iraq,2005.0,0.11
+Iceland,2005.0,7.32
+Israel,2005.0,2.84
+Italy,2005.0,8.98
+Jamaica,2005.0,3.1
+Jordan,2005.0,0.49
+Japan,2005.0,7.33
+Kazakhstan,2005.0,7.24
+Kenya,2005.0,2.07
+Kyrgyz Republic,2005.0,6.65
+Cambodia,2005.0,2.54
+Kiribati,2005.0,1.16
+St. Kitts And Nevis,2005.0,7.21
+"Korea, Rep.",2005.0,9.79
+Kuwait,2005.0,0.0
+Latin America & Caribbean (Excluding High Income),2005.0,6.545406785
+Lao Pdr,2005.0,7.71
+Lebanon,2005.0,2.04
+Liberia,2005.0,4.36
+Libya,2005.0,0.028
+St. Lucia,2005.0,11.38
+Latin America & Caribbean,2005.0,6.613399648
+Least Developed Countries: Un Classification,2005.0,2.626445337
+Low Income,2005.0,3.261735222
+Sri Lanka,2005.0,1.98
+Lower Middle Income,2005.0,2.625931117
+Low & Middle Income,2005.0,3.330889665
+Lesotho,2005.0,3.65
+Late-Demographic Dividend,2005.0,5.170315942
+Lithuania,2005.0,12.91
+Luxembourg,2005.0,12.86
+Latvia,2005.0,10.34
+Morocco,2005.0,0.48
+Moldova,2005.0,12.75
+Madagascar,2005.0,1.0
+Maldives,2005.0,1.45
+Middle East & North Africa,2005.0,0.407563572
+Mexico,2005.0,6.12
+Middle Income,2005.0,3.335758144
+North Macedonia,2005.0,5.01
+Mali,2005.0,0.78
+Malta,2005.0,6.14
+Myanmar,2005.0,0.68
+Middle East & North Africa (Excluding High Income),2005.0,0.33747893
+Mongolia,2005.0,3.43
+Mozambique,2005.0,1.06
+Mauritania,2005.0,0.0
+Mauritius,2005.0,7.93
+Malawi,2005.0,2.89
+Malaysia,2005.0,0.62
+North America,2005.0,9.276532227
+Namibia,2005.0,4.49
+Niger,2005.0,0.14
+Nigeria,2005.0,7.94
+Nicaragua,2005.0,4.14
+Netherlands,2005.0,10.73
+Norway,2005.0,7.15
+Nepal,2005.0,0.31
+Nauru,2005.0,2.87
+New Zealand,2005.0,10.02
+Oecd Members,2005.0,9.306078909
+Oman,2005.0,1.04
+Other Small States,2005.0,6.231864787
+Pakistan,2005.0,0.041
+Panama,2005.0,5.34
+Peru,2005.0,6.12
+Philippines,2005.0,5.74
+Papua New Guinea,2005.0,1.9
+Poland,2005.0,10.54
+Pre-Demographic Dividend,2005.0,5.184055053
+"Korea, Dem. People'S Rep.",2005.0,4.03
+Portugal,2005.0,12.31
+Paraguay,2005.0,5.42
+Pacific Island Small States,2005.0,2.131834091
+Post-Demographic Dividend,2005.0,10.11457918
+Qatar,2005.0,1.29
+Romania,2005.0,18.69
+Russian Federation,2005.0,14.45
+Rwanda,2005.0,1.38
+South Asia,2005.0,1.79195314
+Saudi Arabia,2005.0,0.0
+Sudan,2005.0,0.0
+Senegal,2005.0,0.47
+Singapore,2005.0,1.59
+Solomon Islands,2005.0,0.95
+Sierra Leone,2005.0,0.24
+El Salvador,2005.0,3.18
+Somalia,2005.0,0.0
+Sub-Saharan Africa (Excluding High Income),2005.0,5.358809886
+Sub-Saharan Africa,2005.0,5.359183043
+Small States,2005.0,5.722535558
+Sao Tome And Principe,2005.0,7.59
+Suriname,2005.0,4.96
+Slovak Republic,2005.0,10.5
+Slovenia,2005.0,11.6
+Sweden,2005.0,9.39
+Eswatini,2005.0,8.56
+Seychelles,2005.0,7.91
+Syrian Arab Republic,2005.0,1.16
+Chad,2005.0,3.13
+East Asia & Pacific (Ida & Ibrd Countries),2005.0,3.165618556
+Europe & Central Asia (Ida & Ibrd Countries),2005.0,10.22298049
+Togo,2005.0,1.54
+Thailand,2005.0,9.28
+Tajikistan,2005.0,0.82
+Turkmenistan,2005.0,2.67
+Latin America & The Caribbean (Ida & Ibrd Countries),2005.0,6.633571169
+Timor-Leste,2005.0,0.47
+Middle East & North Africa (Ida & Ibrd Countries),2005.0,0.33747893
+Tonga,2005.0,1.67
+South Asia (Ida & Ibrd),2005.0,1.79195314
+Sub-Saharan Africa (Ida & Ibrd Countries),2005.0,5.359183043
+Trinidad And Tobago,2005.0,5.76
+Tunisia,2005.0,1.66
+Turkiye,2005.0,2.19
+Tuvalu,2005.0,1.94
+Tanzania,2005.0,10.34
+Uganda,2005.0,17.22
+Ukraine,2005.0,10.12
+Upper Middle Income,2005.0,3.899756984
+Uruguay,2005.0,6.07
+United States,2005.0,9.24
+Uzbekistan,2005.0,4.06
+St. Vincent And The Grenadines,2005.0,5.16
+"Venezuela, Rb",2005.0,7.88
+Viet Nam,2005.0,4.35
+Vanuatu,2005.0,1.26
+World,2005.0,4.956917699
+Samoa,2005.0,4.1
+"Yemen, Rep.",2005.0,0.075
+South Africa,2005.0,8.7
+Zambia,2005.0,3.28
+Zimbabwe,2005.0,2.71
+Africa Eastern And Southern,2006.0,5.05793775
+Afghanistan,2006.0,0.027
+Africa Western And Central,2006.0,5.761321984
+Angola,2006.0,6.69
+Albania,2006.0,5.3
+Andorra,2006.0,12.26
+Arab World,2006.0,0.381092514
+United Arab Emirates,2006.0,1.77
+Argentina,2006.0,6.17
+Armenia,2006.0,4.84
+Antigua And Barbuda,2006.0,5.95
+Australia,2006.0,10.82
+Austria,2006.0,12.61
+Azerbaijan,2006.0,1.81
+Burundi,2006.0,6.39
+Belgium,2006.0,11.25
+Benin,2006.0,2.39
+Burkina Faso,2006.0,8.41
+Bangladesh,2006.0,0.002
+Bulgaria,2006.0,10.68
+Bahrain,2006.0,2.28
+"Bahamas, The",2006.0,4.69
+Bosnia And Herzegovina,2006.0,5.59
+Belarus,2006.0,12.79
+Belize,2006.0,5.93
+Bolivia,2006.0,3.81
+Brazil,2006.0,8.28
+Barbados,2006.0,7.8
+Brunei Darussalam,2006.0,0.18
+Bhutan,2006.0,2.04
+Botswana,2006.0,7.44
+Central African Republic,2006.0,2.29
+Canada,2006.0,9.75
+Central Europe And The Baltics,2006.0,12.84875247
+Switzerland,2006.0,11.66
+Chile,2006.0,7.47
+China,2006.0,3.46
+Cote D'Ivoire,2006.0,4.26
+Cameroon,2006.0,11.46
+"Congo, Dem. Rep.",2006.0,5.52
+"Congo, Rep.",2006.0,3.03
+Colombia,2006.0,5.23
+Comoros,2006.0,0.43
+Cabo Verde,2006.0,5.1
+Costa Rica,2006.0,4.54
+Caribbean Small States,2006.0,6.265900628
+Cuba,2006.0,5.75
+Cyprus,2006.0,9.88
+Czechia,2006.0,13.99
+Germany,2006.0,13.01
+Djibouti,2006.0,0.67
+Dominica,2006.0,7.91
+Denmark,2006.0,11.33
+Dominican Republic,2006.0,6.96
+Algeria,2006.0,0.47
+East Asia & Pacific (Excluding High Income),2006.0,3.341921406
+Early-Demographic Dividend,2006.0,2.276777162
+East Asia & Pacific,2006.0,3.847822047
+Europe & Central Asia (Excluding High Income),2006.0,5.956347371
+Europe & Central Asia,2006.0,10.98409972
+Ecuador,2006.0,3.76
+"Egypt, Arab Rep.",2006.0,0.16
+Euro Area,2006.0,11.55331563
+Eritrea,2006.0,1.25
+Spain,2006.0,11.95
+Estonia,2006.0,15.25
+Ethiopia,2006.0,1.4
+European Union,2006.0,11.82816425
+Fragile And Conflict Affected Situations,2006.0,4.411999097
+Finland,2006.0,10.95
+Fiji,2006.0,2.67
+France,2006.0,12.81
+"Micronesia, Fed. Sts.",2006.0,2.51
+Gabon,2006.0,8.89
+United Kingdom,2006.0,12.38
+Georgia,2006.0,12.26
+Ghana,2006.0,5.11
+Guinea,2006.0,0.36
+"Gambia, The",2006.0,3.83
+Guinea-Bissau,2006.0,4.45
+Equatorial Guinea,2006.0,9.11
+Greece,2006.0,9.27
+Grenada,2006.0,7.94
+Guatemala,2006.0,2.27
+Guyana,2006.0,5.82
+High Income,2006.0,10.49851558
+Honduras,2006.0,3.39
+Heavily Indebted Poor Countries (Hipc),2006.0,4.165190069
+Croatia,2006.0,9.46
+Haiti,2006.0,4.02
+Hungary,2006.0,12.58
+Ibrd Only,2006.0,4.190611125
+Ida & Ibrd Total,2006.0,3.959812047
+Ida Total,2006.0,2.986001488
+Ida Blend,2006.0,3.700311196
+Indonesia,2006.0,0.082
+Ida Only,2006.0,2.624067932
+India,2006.0,2.39
+Ireland,2006.0,14.14
+"Iran, Islamic Rep.",2006.0,0.085
+Iraq,2006.0,0.14
+Iceland,2006.0,7.52
+Israel,2006.0,2.85
+Italy,2006.0,8.32
+Jamaica,2006.0,3.13
+Jordan,2006.0,0.5
+Japan,2006.0,7.41
+Kazakhstan,2006.0,7.41
+Kenya,2006.0,2.15
+Kyrgyz Republic,2006.0,6.74
+Cambodia,2006.0,2.81
+Kiribati,2006.0,1.12
+St. Kitts And Nevis,2006.0,7.79
+"Korea, Rep.",2006.0,9.51
+Kuwait,2006.0,0.0
+Latin America & Caribbean (Excluding High Income),2006.0,6.574569161
+Lao Pdr,2006.0,7.82
+Lebanon,2006.0,1.94
+Liberia,2006.0,4.32
+Libya,2006.0,0.027
+St. Lucia,2006.0,11.54
+Latin America & Caribbean,2006.0,6.678899555
+Least Developed Countries: Un Classification,2006.0,2.625606135
+Low Income,2006.0,3.097106767
+Sri Lanka,2006.0,2.06
+Lower Middle Income,2006.0,2.724380706
+Low & Middle Income,2006.0,3.422369421
+Lesotho,2006.0,3.65
+Late-Demographic Dividend,2006.0,5.311850093
+Lithuania,2006.0,13.53
+Luxembourg,2006.0,12.75
+Latvia,2006.0,10.87
+Morocco,2006.0,0.48
+Moldova,2006.0,12.95
+Madagascar,2006.0,0.94
+Maldives,2006.0,1.37
+Middle East & North Africa,2006.0,0.416010569
+Mexico,2006.0,6.19
+Middle Income,2006.0,3.445514889
+North Macedonia,2006.0,4.76
+Mali,2006.0,0.77
+Malta,2006.0,6.77
+Myanmar,2006.0,0.71
+Middle East & North Africa (Excluding High Income),2006.0,0.345502108
+Mongolia,2006.0,4.51
+Mozambique,2006.0,1.05
+Mauritania,2006.0,0.0
+Mauritius,2006.0,7.86
+Malawi,2006.0,3.13
+Malaysia,2006.0,0.59
+North America,2006.0,9.345731638
+Namibia,2006.0,4.45
+Niger,2006.0,0.14
+Nigeria,2006.0,7.91
+Nicaragua,2006.0,4.11
+Netherlands,2006.0,10.75
+Norway,2006.0,7.27
+Nepal,2006.0,0.31
+Nauru,2006.0,2.76
+New Zealand,2006.0,10.15
+Oecd Members,2006.0,9.28770035
+Oman,2006.0,1.04
+Other Small States,2006.0,6.399235244
+Pakistan,2006.0,0.05
+Panama,2006.0,5.38
+Peru,2006.0,6.18
+Philippines,2006.0,5.64
+Papua New Guinea,2006.0,1.88
+Poland,2006.0,10.71
+Pre-Demographic Dividend,2006.0,5.136783284
+"Korea, Dem. People'S Rep.",2006.0,4.09
+Portugal,2006.0,12.18
+Paraguay,2006.0,5.88
+Pacific Island Small States,2006.0,2.146127085
+Post-Demographic Dividend,2006.0,10.09440013
+Qatar,2006.0,1.3
+Romania,2006.0,18.32
+Russian Federation,2006.0,14.5
+Rwanda,2006.0,1.4
+South Asia,2006.0,1.869140225
+Saudi Arabia,2006.0,0.0
+Sudan,2006.0,0.0
+Senegal,2006.0,0.47
+Singapore,2006.0,1.62
+Solomon Islands,2006.0,1.04
+Sierra Leone,2006.0,0.22
+El Salvador,2006.0,3.09
+Somalia,2006.0,0.0
+Sub-Saharan Africa (Excluding High Income),2006.0,5.343779599
+Sub-Saharan Africa,2006.0,5.34417265
+Small States,2006.0,5.855186081
+Sao Tome And Principe,2006.0,7.26
+Suriname,2006.0,4.97
+Slovak Republic,2006.0,10.62
+Slovenia,2006.0,11.81
+Sweden,2006.0,9.31
+Eswatini,2006.0,8.09
+Seychelles,2006.0,8.08
+Syrian Arab Republic,2006.0,1.11
+Chad,2006.0,3.08
+East Asia & Pacific (Ida & Ibrd Countries),2006.0,3.332398117
+Europe & Central Asia (Ida & Ibrd Countries),2006.0,10.23599234
+Togo,2006.0,1.69
+Thailand,2006.0,9.36
+Tajikistan,2006.0,0.76
+Turkmenistan,2006.0,2.66
+Latin America & The Caribbean (Ida & Ibrd Countries),2006.0,6.702534643
+Timor-Leste,2006.0,0.31
+Middle East & North Africa (Ida & Ibrd Countries),2006.0,0.345502108
+Tonga,2006.0,1.64
+South Asia (Ida & Ibrd),2006.0,1.869140225
+Sub-Saharan Africa (Ida & Ibrd Countries),2006.0,5.34417265
+Trinidad And Tobago,2006.0,5.99
+Tunisia,2006.0,1.71
+Turkiye,2006.0,2.06
+Tuvalu,2006.0,1.8
+Tanzania,2006.0,11.53
+Uganda,2006.0,17.16
+Ukraine,2006.0,10.28
+Upper Middle Income,2006.0,4.021640985
+Uruguay,2006.0,6.4
+United States,2006.0,9.3
+Uzbekistan,2006.0,4.34
+St. Vincent And The Grenadines,2006.0,5.39
+"Venezuela, Rb",2006.0,8.43
+Viet Nam,2006.0,4.81
+Vanuatu,2006.0,1.17
+World,2006.0,5.007739725
+Samoa,2006.0,3.88
+"Yemen, Rep.",2006.0,0.072
+South Africa,2006.0,8.75
+Zambia,2006.0,3.33
+Zimbabwe,2006.0,2.75
+Africa Eastern And Southern,2007.0,4.937908553
+Afghanistan,2007.0,0.025
+Africa Western And Central,2007.0,5.730756965
+Angola,2007.0,7.27
+Albania,2007.0,5.64
+Andorra,2007.0,12.19
+Arab World,2007.0,0.381305961
+United Arab Emirates,2007.0,1.78
+Argentina,2007.0,6.62
+Armenia,2007.0,4.95
+Antigua And Barbuda,2007.0,6.43
+Australia,2007.0,11.05
+Austria,2007.0,12.73
+Azerbaijan,2007.0,1.91
+Burundi,2007.0,6.39
+Belgium,2007.0,11.15
+Benin,2007.0,2.31
+Burkina Faso,2007.0,8.43
+Bangladesh,2007.0,0.003
+Bulgaria,2007.0,10.69
+Bahrain,2007.0,2.29
+"Bahamas, The",2007.0,4.82
+Bosnia And Herzegovina,2007.0,5.88
+Belarus,2007.0,13.4
+Belize,2007.0,6.21
+Bolivia,2007.0,4.11
+Brazil,2007.0,8.32
+Barbados,2007.0,8.02
+Brunei Darussalam,2007.0,0.32
+Bhutan,2007.0,1.24
+Botswana,2007.0,7.91
+Central African Republic,2007.0,2.32
+Canada,2007.0,9.95
+Central Europe And The Baltics,2007.0,12.94655406
+Switzerland,2007.0,11.61
+Chile,2007.0,7.82
+China,2007.0,3.83
+Cote D'Ivoire,2007.0,4.23
+Cameroon,2007.0,11.69
+"Congo, Dem. Rep.",2007.0,3.76
+"Congo, Rep.",2007.0,3.33
+Colombia,2007.0,5.36
+Comoros,2007.0,0.34
+Cabo Verde,2007.0,5.4
+Costa Rica,2007.0,4.59
+Caribbean Small States,2007.0,6.344567003
+Cuba,2007.0,5.63
+Cyprus,2007.0,9.5
+Czechia,2007.0,14.11
+Germany,2007.0,12.89
+Djibouti,2007.0,0.67
+Dominica,2007.0,7.58
+Denmark,2007.0,11.21
+Dominican Republic,2007.0,7.16
+Algeria,2007.0,0.44
+East Asia & Pacific (Excluding High Income),2007.0,3.625306497
+Early-Demographic Dividend,2007.0,2.371585606
+East Asia & Pacific,2007.0,4.091886029
+Europe & Central Asia (Excluding High Income),2007.0,6.043274942
+Europe & Central Asia,2007.0,10.94813201
+Ecuador,2007.0,3.74
+"Egypt, Arab Rep.",2007.0,0.17
+Euro Area,2007.0,11.40447577
+Eritrea,2007.0,1.97
+Spain,2007.0,11.86
+Estonia,2007.0,15.75
+Ethiopia,2007.0,1.47
+European Union,2007.0,11.72662443
+Fragile And Conflict Affected Situations,2007.0,4.328550198
+Finland,2007.0,11.12
+Fiji,2007.0,2.84
+France,2007.0,12.75
+"Micronesia, Fed. Sts.",2007.0,2.35
+Gabon,2007.0,9.26
+United Kingdom,2007.0,12.19
+Georgia,2007.0,13.53
+Ghana,2007.0,4.8
+Guinea,2007.0,0.28
+"Gambia, The",2007.0,3.69
+Guinea-Bissau,2007.0,4.51
+Equatorial Guinea,2007.0,9.18
+Greece,2007.0,9.34
+Grenada,2007.0,8.14
+Guatemala,2007.0,2.27
+Guyana,2007.0,5.67
+High Income,2007.0,10.46291666
+Honduras,2007.0,3.44
+Heavily Indebted Poor Countries (Hipc),2007.0,4.026939089
+Croatia,2007.0,9.3
+Haiti,2007.0,3.99
+Hungary,2007.0,12.36
+Ibrd Only,2007.0,4.382133932
+Ida & Ibrd Total,2007.0,4.106032488
+Ida Total,2007.0,2.952557569
+Ida Blend,2007.0,3.736497652
+Indonesia,2007.0,0.085
+Ida Only,2007.0,2.555406358
+India,2007.0,2.6
+Ireland,2007.0,14.15
+"Iran, Islamic Rep.",2007.0,0.12
+Iraq,2007.0,0.17
+Iceland,2007.0,7.78
+Israel,2007.0,2.89
+Italy,2007.0,7.73
+Jamaica,2007.0,3.08
+Jordan,2007.0,0.51
+Japan,2007.0,7.31
+Kazakhstan,2007.0,6.62
+Kenya,2007.0,2.38
+Kyrgyz Republic,2007.0,6.78
+Cambodia,2007.0,3.11
+Kiribati,2007.0,1.15
+St. Kitts And Nevis,2007.0,8.0
+"Korea, Rep.",2007.0,9.45
+Kuwait,2007.0,0.0
+Latin America & Caribbean (Excluding High Income),2007.0,6.592751108
+Lao Pdr,2007.0,8.45
+Lebanon,2007.0,1.85
+Liberia,2007.0,4.27
+Libya,2007.0,0.006
+St. Lucia,2007.0,11.78
+Latin America & Caribbean,2007.0,6.727532016
+Least Developed Countries: Un Classification,2007.0,2.567817123
+Low Income,2007.0,2.888935237
+Sri Lanka,2007.0,2.33
+Lower Middle Income,2007.0,2.868457844
+Low & Middle Income,2007.0,3.576743797
+Lesotho,2007.0,3.67
+Late-Demographic Dividend,2007.0,5.567114868
+Lithuania,2007.0,14.02
+Luxembourg,2007.0,12.64
+Latvia,2007.0,11.45
+Morocco,2007.0,0.49
+Moldova,2007.0,12.73
+Madagascar,2007.0,0.91
+Maldives,2007.0,1.41
+Middle East & North Africa,2007.0,0.424540486
+Mexico,2007.0,5.93
+Middle Income,2007.0,3.626362359
+North Macedonia,2007.0,4.59
+Mali,2007.0,0.78
+Malta,2007.0,7.2
+Myanmar,2007.0,0.75
+Middle East & North Africa (Excluding High Income),2007.0,0.351563243
+Mongolia,2007.0,7.07
+Mozambique,2007.0,1.05
+Mauritania,2007.0,0.0
+Mauritius,2007.0,7.77
+Malawi,2007.0,3.37
+Malaysia,2007.0,0.55
+North America,2007.0,9.429040696
+Namibia,2007.0,4.38
+Niger,2007.0,0.14
+Nigeria,2007.0,7.85
+Nicaragua,2007.0,4.12
+Netherlands,2007.0,10.68
+Norway,2007.0,7.37
+Nepal,2007.0,0.3
+Nauru,2007.0,2.56
+New Zealand,2007.0,10.15
+Oecd Members,2007.0,9.234711248
+Oman,2007.0,1.0
+Other Small States,2007.0,6.336840097
+Pakistan,2007.0,0.059
+Panama,2007.0,5.51
+Peru,2007.0,6.23
+Philippines,2007.0,5.57
+Papua New Guinea,2007.0,1.93
+Poland,2007.0,11.04
+Pre-Demographic Dividend,2007.0,5.035876084
+"Korea, Dem. People'S Rep.",2007.0,4.09
+Portugal,2007.0,11.95
+Paraguay,2007.0,6.16
+Pacific Island Small States,2007.0,2.191550234
+Post-Demographic Dividend,2007.0,10.0718082
+Qatar,2007.0,1.29
+Romania,2007.0,18.09
+Russian Federation,2007.0,14.62
+Rwanda,2007.0,1.4
+South Asia,2007.0,2.032998669
+Saudi Arabia,2007.0,0.0
+Sudan,2007.0,0.0
+Senegal,2007.0,0.47
+Singapore,2007.0,1.66
+Solomon Islands,2007.0,1.01
+Sierra Leone,2007.0,0.22
+El Salvador,2007.0,3.08
+Somalia,2007.0,0.0
+Sub-Saharan Africa (Excluding High Income),2007.0,5.259888473
+Sub-Saharan Africa,2007.0,5.260393152
+Small States,2007.0,5.833226792
+Sao Tome And Principe,2007.0,6.86
+Suriname,2007.0,5.01
+Slovak Republic,2007.0,10.78
+Slovenia,2007.0,12.12
+Sweden,2007.0,9.39
+Eswatini,2007.0,8.13
+Seychelles,2007.0,8.78
+Syrian Arab Republic,2007.0,1.06
+Chad,2007.0,3.28
+East Asia & Pacific (Ida & Ibrd Countries),2007.0,3.619414298
+Europe & Central Asia (Ida & Ibrd Countries),2007.0,10.31217981
+Togo,2007.0,1.92
+Thailand,2007.0,9.34
+Tajikistan,2007.0,0.7
+Turkmenistan,2007.0,2.54
+Latin America & The Caribbean (Ida & Ibrd Countries),2007.0,6.754845965
+Timor-Leste,2007.0,0.18
+Middle East & North Africa (Ida & Ibrd Countries),2007.0,0.351563243
+Tonga,2007.0,1.71
+South Asia (Ida & Ibrd),2007.0,2.032998669
+Sub-Saharan Africa (Ida & Ibrd Countries),2007.0,5.260393152
+Trinidad And Tobago,2007.0,6.15
+Tunisia,2007.0,1.68
+Turkiye,2007.0,1.95
+Tuvalu,2007.0,1.11
+Tanzania,2007.0,11.95
+Uganda,2007.0,17.08
+Ukraine,2007.0,10.74
+Upper Middle Income,2007.0,4.23603308
+Uruguay,2007.0,6.5
+United States,2007.0,9.37
+Uzbekistan,2007.0,4.67
+St. Vincent And The Grenadines,2007.0,5.59
+"Venezuela, Rb",2007.0,8.83
+Viet Nam,2007.0,5.2
+Vanuatu,2007.0,1.17
+World,2007.0,5.108208105
+Samoa,2007.0,3.75
+"Yemen, Rep.",2007.0,0.067
+South Africa,2007.0,8.81
+Zambia,2007.0,3.16
+Zimbabwe,2007.0,2.74
+Africa Eastern And Southern,2008.0,4.887689173
+Afghanistan,2008.0,0.03
+Africa Western And Central,2008.0,5.701747889
+Angola,2008.0,7.61
+Albania,2008.0,5.81
+Andorra,2008.0,11.87
+Arab World,2008.0,0.392216083
+United Arab Emirates,2008.0,1.86
+Argentina,2008.0,7.0
+Armenia,2008.0,4.88
+Antigua And Barbuda,2008.0,6.5
+Australia,2008.0,11.19
+Austria,2008.0,12.66
+Azerbaijan,2008.0,2.03
+Burundi,2008.0,6.39
+Belgium,2008.0,11.3
+Benin,2008.0,2.42
+Burkina Faso,2008.0,8.29
+Bangladesh,2008.0,0.004
+Bulgaria,2008.0,10.88
+Bahrain,2008.0,2.28
+"Bahamas, The",2008.0,4.88
+Bosnia And Herzegovina,2008.0,6.06
+Belarus,2008.0,14.48
+Belize,2008.0,6.43
+Bolivia,2008.0,4.43
+Brazil,2008.0,8.36
+Barbados,2008.0,8.3
+Brunei Darussalam,2008.0,0.43
+Bhutan,2008.0,0.65
+Botswana,2008.0,8.25
+Central African Republic,2008.0,2.39
+Canada,2008.0,10.09
+Central Europe And The Baltics,2008.0,13.16177012
+Switzerland,2008.0,11.63
+Chile,2008.0,7.73
+China,2008.0,4.23
+Cote D'Ivoire,2008.0,4.19
+Cameroon,2008.0,11.92
+"Congo, Dem. Rep.",2008.0,3.92
+"Congo, Rep.",2008.0,3.7
+Colombia,2008.0,5.38
+Comoros,2008.0,0.25
+Cabo Verde,2008.0,5.41
+Costa Rica,2008.0,4.65
+Caribbean Small States,2008.0,6.399713471
+Cuba,2008.0,5.57
+Cyprus,2008.0,9.65
+Czechia,2008.0,14.1
+Germany,2008.0,12.79
+Djibouti,2008.0,0.69
+Dominica,2008.0,7.32
+Denmark,2008.0,11.0
+Dominican Republic,2008.0,7.21
+Algeria,2008.0,0.39
+East Asia & Pacific (Excluding High Income),2008.0,3.912997514
+Early-Demographic Dividend,2008.0,2.519939606
+East Asia & Pacific,2008.0,4.334832684
+Europe & Central Asia (Excluding High Income),2008.0,6.095176915
+Europe & Central Asia,2008.0,10.90152605
+Ecuador,2008.0,3.8
+"Egypt, Arab Rep.",2008.0,0.2
+Euro Area,2008.0,11.25579841
+Eritrea,2008.0,1.93
+Spain,2008.0,11.32
+Estonia,2008.0,15.84
+Ethiopia,2008.0,1.54
+European Union,2008.0,11.65254761
+Fragile And Conflict Affected Situations,2008.0,4.392629712
+Finland,2008.0,11.21
+Fiji,2008.0,2.98
+France,2008.0,12.63
+"Micronesia, Fed. Sts.",2008.0,2.37
+Gabon,2008.0,9.28
+United Kingdom,2008.0,11.94
+Georgia,2008.0,14.52
+Ghana,2008.0,4.88
+Guinea,2008.0,0.28
+"Gambia, The",2008.0,3.54
+Guinea-Bissau,2008.0,4.29
+Equatorial Guinea,2008.0,8.88
+Greece,2008.0,9.28
+Grenada,2008.0,8.22
+Guatemala,2008.0,2.23
+Guyana,2008.0,5.62
+High Income,2008.0,10.40058335
+Honduras,2008.0,3.38
+Heavily Indebted Poor Countries (Hipc),2008.0,4.002901745
+Croatia,2008.0,9.47
+Haiti,2008.0,3.98
+Hungary,2008.0,12.01
+Ibrd Only,2008.0,4.61331051
+Ida & Ibrd Total,2008.0,4.282459435
+Ida Total,2008.0,2.915840834
+Ida Blend,2008.0,3.641150784
+Indonesia,2008.0,0.089
+Ida Only,2008.0,2.548111202
+India,2008.0,2.95
+Ireland,2008.0,13.85
+"Iran, Islamic Rep.",2008.0,0.14
+Iraq,2008.0,0.18
+Iceland,2008.0,7.81
+Israel,2008.0,2.94
+Italy,2008.0,7.54
+Jamaica,2008.0,3.02
+Jordan,2008.0,0.53
+Japan,2008.0,7.06
+Kazakhstan,2008.0,5.52
+Kenya,2008.0,2.32
+Kyrgyz Republic,2008.0,6.76
+Cambodia,2008.0,3.28
+Kiribati,2008.0,1.02
+St. Kitts And Nevis,2008.0,7.87
+"Korea, Rep.",2008.0,9.54
+Kuwait,2008.0,0.0
+Latin America & Caribbean (Excluding High Income),2008.0,6.606039319
+Lao Pdr,2008.0,9.04
+Lebanon,2008.0,1.82
+Liberia,2008.0,4.18
+Libya,2008.0,0.008
+St. Lucia,2008.0,11.42
+Latin America & Caribbean,2008.0,6.744707891
+Least Developed Countries: Un Classification,2008.0,2.571568508
+Low Income,2008.0,2.857817364
+Sri Lanka,2008.0,2.37
+Lower Middle Income,2008.0,3.062839024
+Low & Middle Income,2008.0,3.764576197
+Lesotho,2008.0,3.71
+Late-Demographic Dividend,2008.0,5.815683745
+Lithuania,2008.0,14.42
+Luxembourg,2008.0,12.52
+Latvia,2008.0,11.95
+Morocco,2008.0,0.5
+Moldova,2008.0,12.29
+Madagascar,2008.0,0.88
+Maldives,2008.0,1.56
+Middle East & North Africa,2008.0,0.439051237
+Mexico,2008.0,5.67
+Middle Income,2008.0,3.830958243
+North Macedonia,2008.0,4.51
+Mali,2008.0,0.79
+Malta,2008.0,7.47
+Myanmar,2008.0,0.81
+Middle East & North Africa (Excluding High Income),2008.0,0.3614531
+Mongolia,2008.0,8.3
+Mozambique,2008.0,1.08
+Mauritania,2008.0,0.0
+Mauritius,2008.0,7.6
+Malawi,2008.0,3.55
+Malaysia,2008.0,0.55
+North America,2008.0,9.497266544
+Namibia,2008.0,4.43
+Niger,2008.0,0.15
+Nigeria,2008.0,7.75
+Nicaragua,2008.0,4.09
+Netherlands,2008.0,10.67
+Norway,2008.0,7.48
+Nepal,2008.0,0.3
+Nauru,2008.0,2.76
+New Zealand,2008.0,10.2
+Oecd Members,2008.0,9.164760981
+Oman,2008.0,0.93
+Other Small States,2008.0,6.222979935
+Pakistan,2008.0,0.061
+Panama,2008.0,5.87
+Peru,2008.0,6.48
+Philippines,2008.0,5.59
+Papua New Guinea,2008.0,1.9
+Poland,2008.0,11.5
+Pre-Demographic Dividend,2008.0,4.991471355
+"Korea, Dem. People'S Rep.",2008.0,4.08
+Portugal,2008.0,11.78
+Paraguay,2008.0,6.57
+Pacific Island Small States,2008.0,2.242712437
+Post-Demographic Dividend,2008.0,10.04533744
+Qatar,2008.0,1.26
+Romania,2008.0,18.34
+Russian Federation,2008.0,14.65
+Rwanda,2008.0,1.32
+South Asia,2008.0,2.301326231
+Saudi Arabia,2008.0,0.0
+Sudan,2008.0,0.0
+Senegal,2008.0,0.48
+Singapore,2008.0,1.73
+Solomon Islands,2008.0,1.05
+Sierra Leone,2008.0,0.25
+El Salvador,2008.0,3.05
+Somalia,2008.0,0.0
+Sub-Saharan Africa (Excluding High Income),2008.0,5.218129754
+Sub-Saharan Africa,2008.0,5.218582023
+Small States,2008.0,5.771231872
+Sao Tome And Principe,2008.0,6.46
+Suriname,2008.0,5.12
+Slovak Republic,2008.0,10.93
+Slovenia,2008.0,12.03
+Sweden,2008.0,9.48
+Eswatini,2008.0,7.96
+Seychelles,2008.0,8.43
+Syrian Arab Republic,2008.0,1.04
+Chad,2008.0,3.32
+East Asia & Pacific (Ida & Ibrd Countries),2008.0,3.910880515
+Europe & Central Asia (Ida & Ibrd Countries),2008.0,10.3837514
+Togo,2008.0,1.98
+Thailand,2008.0,8.66
+Tajikistan,2008.0,0.64
+Turkmenistan,2008.0,2.36
+Latin America & The Caribbean (Ida & Ibrd Countries),2008.0,6.773471071
+Timor-Leste,2008.0,0.055
+Middle East & North Africa (Ida & Ibrd Countries),2008.0,0.3614531
+Tonga,2008.0,1.56
+South Asia (Ida & Ibrd),2008.0,2.301326231
+Sub-Saharan Africa (Ida & Ibrd Countries),2008.0,5.218582023
+Trinidad And Tobago,2008.0,6.22
+Tunisia,2008.0,1.69
+Turkiye,2008.0,1.99
+Tuvalu,2008.0,1.27
+Tanzania,2008.0,11.63
+Uganda,2008.0,16.07
+Ukraine,2008.0,11.48
+Upper Middle Income,2008.0,4.454581696
+Uruguay,2008.0,6.44
+United States,2008.0,9.43
+Uzbekistan,2008.0,3.8
+St. Vincent And The Grenadines,2008.0,5.92
+"Venezuela, Rb",2008.0,8.95
+Viet Nam,2008.0,5.73
+Vanuatu,2008.0,1.2
+World,2008.0,5.230643325
+Samoa,2008.0,3.67
+"Yemen, Rep.",2008.0,0.067
+South Africa,2008.0,8.83
+Zambia,2008.0,3.12
+Zimbabwe,2008.0,2.59
+Africa Eastern And Southern,2009.0,4.847726417
+Afghanistan,2009.0,0.025
+Africa Western And Central,2009.0,5.662399223
+Angola,2009.0,7.78
+Albania,2009.0,6.0
+Andorra,2009.0,11.52
+Arab World,2009.0,0.404529623
+United Arab Emirates,2009.0,1.91
+Argentina,2009.0,7.27
+Armenia,2009.0,4.9
+Antigua And Barbuda,2009.0,6.25
+Australia,2009.0,11.28
+Austria,2009.0,12.4
+Azerbaijan,2009.0,1.94
+Burundi,2009.0,6.35
+Belgium,2009.0,11.32
+Benin,2009.0,2.52
+Burkina Faso,2009.0,8.21
+Bangladesh,2009.0,0.004
+Bulgaria,2009.0,10.99
+Bahrain,2009.0,2.35
+"Bahamas, The",2009.0,4.67
+Bosnia And Herzegovina,2009.0,6.03
+Belarus,2009.0,14.91
+Belize,2009.0,6.48
+Bolivia,2009.0,4.67
+Brazil,2009.0,8.45
+Barbados,2009.0,8.33
+Brunei Darussalam,2009.0,0.35
+Bhutan,2009.0,0.52
+Botswana,2009.0,7.62
+Central African Republic,2009.0,2.39
+Canada,2009.0,10.18
+Central Europe And The Baltics,2009.0,13.12326861
+Switzerland,2009.0,11.59
+Chile,2009.0,7.84
+China,2009.0,4.71
+Cote D'Ivoire,2009.0,4.22
+Cameroon,2009.0,12.15
+"Congo, Dem. Rep.",2009.0,4.15
+"Congo, Rep.",2009.0,3.98
+Colombia,2009.0,5.3
+Comoros,2009.0,0.21
+Cabo Verde,2009.0,5.29
+Costa Rica,2009.0,4.58
+Caribbean Small States,2009.0,6.363985843
+Cuba,2009.0,5.53
+Cyprus,2009.0,9.48
+Czechia,2009.0,14.04
+Germany,2009.0,12.6
+Djibouti,2009.0,0.7
+Dominica,2009.0,7.14
+Denmark,2009.0,10.71
+Dominican Republic,2009.0,7.14
+Algeria,2009.0,0.41
+East Asia & Pacific (Excluding High Income),2009.0,4.259964774
+Early-Demographic Dividend,2009.0,2.759121779
+East Asia & Pacific,2009.0,4.63217762
+Europe & Central Asia (Excluding High Income),2009.0,5.967272431
+Europe & Central Asia,2009.0,10.70781105
+Ecuador,2009.0,3.9
+"Egypt, Arab Rep.",2009.0,0.2
+Euro Area,2009.0,11.01868231
+Eritrea,2009.0,1.79
+Spain,2009.0,10.73
+Estonia,2009.0,15.09
+Ethiopia,2009.0,1.53
+European Union,2009.0,11.46216953
+Fragile And Conflict Affected Situations,2009.0,4.410160292
+Finland,2009.0,11.14
+Fiji,2009.0,3.05
+France,2009.0,12.51
+"Micronesia, Fed. Sts.",2009.0,2.5
+Gabon,2009.0,9.19
+United Kingdom,2009.0,11.61
+Georgia,2009.0,14.7
+Ghana,2009.0,4.91
+Guinea,2009.0,0.28
+"Gambia, The",2009.0,3.45
+Guinea-Bissau,2009.0,4.05
+Equatorial Guinea,2009.0,8.46
+Greece,2009.0,9.25
+Grenada,2009.0,8.06
+Guatemala,2009.0,2.15
+Guyana,2009.0,5.66
+High Income,2009.0,10.25677115
+Honduras,2009.0,3.28
+Heavily Indebted Poor Countries (Hipc),2009.0,3.991852348
+Croatia,2009.0,9.51
+Haiti,2009.0,3.99
+Hungary,2009.0,11.5
+Ibrd Only,2009.0,4.904811349
+Ida & Ibrd Total,2009.0,4.508044213
+Ida Total,2009.0,2.887398349
+Ida Blend,2009.0,3.541506565
+Indonesia,2009.0,0.094
+Ida Only,2009.0,2.555165581
+India,2009.0,3.53
+Ireland,2009.0,13.12
+"Iran, Islamic Rep.",2009.0,0.16
+Iraq,2009.0,0.2
+Iceland,2009.0,7.82
+Israel,2009.0,3.04
+Italy,2009.0,7.26
+Jamaica,2009.0,2.96
+Jordan,2009.0,0.53
+Japan,2009.0,6.84
+Kazakhstan,2009.0,4.26
+Kenya,2009.0,2.31
+Kyrgyz Republic,2009.0,6.52
+Cambodia,2009.0,3.46
+Kiribati,2009.0,0.95
+St. Kitts And Nevis,2009.0,7.47
+"Korea, Rep.",2009.0,9.58
+Kuwait,2009.0,0.0
+Latin America & Caribbean (Excluding High Income),2009.0,6.605299294
+Lao Pdr,2009.0,9.68
+Lebanon,2009.0,1.81
+Liberia,2009.0,4.09
+Libya,2009.0,0.009
+St. Lucia,2009.0,10.77
+Latin America & Caribbean,2009.0,6.739598543
+Least Developed Countries: Un Classification,2009.0,2.587137046
+Low Income,2009.0,2.824511416
+Sri Lanka,2009.0,2.4
+Lower Middle Income,2009.0,3.38039223
+Low & Middle Income,2009.0,4.01639043
+Lesotho,2009.0,3.79
+Late-Demographic Dividend,2009.0,6.085995722
+Lithuania,2009.0,14.3
+Luxembourg,2009.0,12.36
+Latvia,2009.0,11.82
+Morocco,2009.0,0.52
+Moldova,2009.0,11.66
+Madagascar,2009.0,0.99
+Maldives,2009.0,1.63
+Middle East & North Africa,2009.0,0.455148793
+Mexico,2009.0,5.4
+Middle Income,2009.0,4.104866338
+North Macedonia,2009.0,4.46
+Mali,2009.0,0.79
+Malta,2009.0,7.15
+Myanmar,2009.0,0.9
+Middle East & North Africa (Excluding High Income),2009.0,0.372091928
+Mongolia,2009.0,8.96
+Mozambique,2009.0,1.12
+Mauritania,2009.0,0.0
+Mauritius,2009.0,7.59
+Malawi,2009.0,3.44
+Malaysia,2009.0,0.56
+North America,2009.0,9.515573694
+Namibia,2009.0,4.61
+Niger,2009.0,0.15
+Nigeria,2009.0,7.63
+Nicaragua,2009.0,3.98
+Netherlands,2009.0,10.51
+Norway,2009.0,7.55
+Nepal,2009.0,0.31
+Nauru,2009.0,2.67
+New Zealand,2009.0,10.15
+Oecd Members,2009.0,9.037924517
+Oman,2009.0,0.9
+Other Small States,2009.0,5.979200983
+Pakistan,2009.0,0.061
+Panama,2009.0,6.21
+Peru,2009.0,6.66
+Philippines,2009.0,5.7
+Papua New Guinea,2009.0,1.92
+Poland,2009.0,11.6
+Pre-Demographic Dividend,2009.0,4.959462913
+"Korea, Dem. People'S Rep.",2009.0,4.11
+Portugal,2009.0,11.68
+Paraguay,2009.0,6.59
+Pacific Island Small States,2009.0,2.259362211
+Post-Demographic Dividend,2009.0,9.950879594
+Qatar,2009.0,1.23
+Romania,2009.0,18.39
+Russian Federation,2009.0,14.46
+Rwanda,2009.0,1.25
+South Asia,2009.0,2.745312168
+Saudi Arabia,2009.0,0.0
+Sudan,2009.0,0.0
+Senegal,2009.0,0.46
+Singapore,2009.0,1.78
+Solomon Islands,2009.0,1.13
+Sierra Leone,2009.0,0.28
+El Salvador,2009.0,2.98
+Somalia,2009.0,0.0
+Sub-Saharan Africa (Excluding High Income),2009.0,5.178310615
+Sub-Saharan Africa,2009.0,5.178676483
+Small States,2009.0,5.597248795
+Sao Tome And Principe,2009.0,5.95
+Suriname,2009.0,5.26
+Slovak Republic,2009.0,11.03
+Slovenia,2009.0,11.47
+Sweden,2009.0,9.61
+Eswatini,2009.0,7.75
+Seychelles,2009.0,7.78
+Syrian Arab Republic,2009.0,1.05
+Chad,2009.0,3.45
+East Asia & Pacific (Ida & Ibrd Countries),2009.0,4.261852605
+Europe & Central Asia (Ida & Ibrd Countries),2009.0,10.24003703
+Togo,2009.0,1.97
+Thailand,2009.0,7.98
+Tajikistan,2009.0,0.64
+Turkmenistan,2009.0,2.18
+Latin America & The Caribbean (Ida & Ibrd Countries),2009.0,6.768937488
+Timor-Leste,2009.0,0.073
+Middle East & North Africa (Ida & Ibrd Countries),2009.0,0.372091928
+Tonga,2009.0,1.44
+South Asia (Ida & Ibrd),2009.0,2.745312168
+Sub-Saharan Africa (Ida & Ibrd Countries),2009.0,5.178676483
+Trinidad And Tobago,2009.0,6.19
+Tunisia,2009.0,1.68
+Turkiye,2009.0,2.03
+Tuvalu,2009.0,1.29
+Tanzania,2009.0,11.68
+Uganda,2009.0,15.01
+Ukraine,2009.0,11.92
+Upper Middle Income,2009.0,4.698645568
+Uruguay,2009.0,6.44
+United States,2009.0,9.44
+Uzbekistan,2009.0,2.83
+St. Vincent And The Grenadines,2009.0,6.3
+"Venezuela, Rb",2009.0,8.74
+Viet Nam,2009.0,6.24
+Vanuatu,2009.0,1.21
+World,2009.0,5.385419081
+Samoa,2009.0,3.39
+"Yemen, Rep.",2009.0,0.062
+South Africa,2009.0,8.78
+Zambia,2009.0,3.04
+Zimbabwe,2009.0,2.63
+Africa Eastern And Southern,2010.0,4.734130349
+Afghanistan,2010.0,0.023
+Africa Western And Central,2010.0,5.136237233
+Angola,2010.0,8.11
+Albania,2010.0,5.94
+Andorra,2010.0,11.07
+Arab World,2010.0,0.4156988
+United Arab Emirates,2010.0,1.96
+Argentina,2010.0,7.44
+Armenia,2010.0,4.99
+Antigua And Barbuda,2010.0,5.97
+Australia,2010.0,11.26
+Austria,2010.0,12.27
+Azerbaijan,2010.0,1.98
+Burundi,2010.0,6.28
+Belgium,2010.0,11.46
+Benin,2010.0,4.62
+Burkina Faso,2010.0,8.16
+Bangladesh,2010.0,0.004
+Bulgaria,2010.0,10.83
+Bahrain,2010.0,2.41
+"Bahamas, The",2010.0,4.46
+Bosnia And Herzegovina,2010.0,5.86
+Belarus,2010.0,15.05
+Belize,2010.0,6.32
+Bolivia,2010.0,4.73
+Brazil,2010.0,8.56
+Barbados,2010.0,8.41
+Brunei Darussalam,2010.0,0.23
+Bhutan,2010.0,0.59
+Botswana,2010.0,7.46
+Central African Republic,2010.0,2.42
+Canada,2010.0,10.23
+Central Europe And The Baltics,2010.0,12.87636975
+Switzerland,2010.0,11.43
+Chile,2010.0,7.89
+China,2010.0,5.26
+Cote D'Ivoire,2010.0,3.53
+Cameroon,2010.0,12.4
+"Congo, Dem. Rep.",2010.0,3.65
+"Congo, Rep.",2010.0,4.35
+Colombia,2010.0,5.13
+Comoros,2010.0,0.2
+Cabo Verde,2010.0,5.29
+Costa Rica,2010.0,4.38
+Caribbean Small States,2010.0,6.301853418
+Cuba,2010.0,5.54
+Cyprus,2010.0,9.43
+Czechia,2010.0,13.67
+Germany,2010.0,12.46
+Djibouti,2010.0,0.73
+Dominica,2010.0,6.88
+Denmark,2010.0,10.48
+Dominican Republic,2010.0,6.99
+Algeria,2010.0,0.43
+East Asia & Pacific (Excluding High Income),2010.0,4.667965245
+Early-Demographic Dividend,2010.0,3.026226337
+East Asia & Pacific,2010.0,4.991809048
+Europe & Central Asia (Excluding High Income),2010.0,5.789835284
+Europe & Central Asia,2010.0,10.45033215
+Ecuador,2010.0,4.0
+"Egypt, Arab Rep.",2010.0,0.21
+Euro Area,2010.0,10.79243441
+Eritrea,2010.0,1.31
+Spain,2010.0,10.01
+Estonia,2010.0,14.42
+Ethiopia,2010.0,1.59
+European Union,2010.0,11.23767588
+Fragile And Conflict Affected Situations,2010.0,4.069864857
+Finland,2010.0,10.89
+Fiji,2010.0,2.87
+France,2010.0,12.31
+"Micronesia, Fed. Sts.",2010.0,2.54
+Gabon,2010.0,9.05
+United Kingdom,2010.0,11.25
+Georgia,2010.0,14.8
+Ghana,2010.0,5.44
+Guinea,2010.0,0.29
+"Gambia, The",2010.0,3.27
+Guinea-Bissau,2010.0,3.89
+Equatorial Guinea,2010.0,8.64
+Greece,2010.0,9.11
+Grenada,2010.0,7.78
+Guatemala,2010.0,2.06
+Guyana,2010.0,5.7
+High Income,2010.0,10.07143586
+Honduras,2010.0,3.19
+Heavily Indebted Poor Countries (Hipc),2010.0,3.957166758
+Croatia,2010.0,9.46
+Haiti,2010.0,3.54
+Hungary,2010.0,10.95
+Ibrd Only,2010.0,5.222187324
+Ida & Ibrd Total,2010.0,4.724992505
+Ida Total,2010.0,2.718120336
+Ida Blend,2010.0,3.019230483
+Indonesia,2010.0,0.1
+Ida Only,2010.0,2.56486864
+India,2010.0,4.11
+Ireland,2010.0,12.52
+"Iran, Islamic Rep.",2010.0,0.54
+Iraq,2010.0,0.22
+Iceland,2010.0,7.58
+Israel,2010.0,3.13
+Italy,2010.0,7.18
+Jamaica,2010.0,2.99
+Jordan,2010.0,0.51
+Japan,2010.0,6.77
+Kazakhstan,2010.0,4.22
+Kenya,2010.0,2.34
+Kyrgyz Republic,2010.0,6.45
+Cambodia,2010.0,4.03
+Kiribati,2010.0,0.68
+St. Kitts And Nevis,2010.0,6.92
+"Korea, Rep.",2010.0,9.53
+Kuwait,2010.0,0.0
+Latin America & Caribbean (Excluding High Income),2010.0,6.639293021
+Lao Pdr,2010.0,10.06
+Lebanon,2010.0,1.84
+Liberia,2010.0,3.97
+Libya,2010.0,0.009
+St. Lucia,2010.0,10.08
+Latin America & Caribbean,2010.0,6.749356651
+Least Developed Countries: Un Classification,2010.0,2.60947809
+Low Income,2010.0,2.769157551
+Sri Lanka,2010.0,2.41
+Lower Middle Income,2010.0,3.641231365
+Low & Middle Income,2010.0,4.269730474
+Lesotho,2010.0,3.63
+Late-Demographic Dividend,2010.0,6.396963001
+Lithuania,2010.0,13.75
+Luxembourg,2010.0,12.19
+Latvia,2010.0,11.46
+Morocco,2010.0,0.51
+Moldova,2010.0,11.35
+Madagascar,2010.0,1.04
+Maldives,2010.0,1.6
+Middle East & North Africa,2010.0,0.548060884
+Mexico,2010.0,5.33
+Middle Income,2010.0,4.382751109
+North Macedonia,2010.0,4.43
+Mali,2010.0,2.12
+Malta,2010.0,6.91
+Myanmar,2010.0,0.98
+Middle East & North Africa (Excluding High Income),2010.0,0.473080823
+Mongolia,2010.0,8.5
+Mozambique,2010.0,1.17
+Mauritania,2010.0,0.0
+Mauritius,2010.0,7.57
+Malawi,2010.0,3.46
+Malaysia,2010.0,0.59
+North America,2010.0,9.4580892
+Namibia,2010.0,4.77
+Niger,2010.0,0.16
+Nigeria,2010.0,6.19
+Nicaragua,2010.0,3.83
+Netherlands,2010.0,10.37
+Norway,2010.0,7.54
+Nepal,2010.0,0.64
+Nauru,2010.0,3.51
+New Zealand,2010.0,10.29
+Oecd Members,2010.0,8.904743508
+Oman,2010.0,0.89
+Other Small States,2010.0,5.757633716
+Pakistan,2010.0,0.071
+Panama,2010.0,6.44
+Peru,2010.0,7.12
+Philippines,2010.0,5.93
+Papua New Guinea,2010.0,1.65
+Poland,2010.0,11.49
+Pre-Demographic Dividend,2010.0,4.596866907
+"Korea, Dem. People'S Rep.",2010.0,4.28
+Portugal,2010.0,11.59
+Paraguay,2010.0,6.63
+Pacific Island Small States,2010.0,2.159214549
+Post-Demographic Dividend,2010.0,9.816736432
+Qatar,2010.0,1.2
+Romania,2010.0,18.13
+Russian Federation,2010.0,14.09
+Rwanda,2010.0,1.26
+South Asia,2010.0,3.193391168
+Saudi Arabia,2010.0,0.0
+Sudan,2010.0,0.0
+Senegal,2010.0,0.43
+Singapore,2010.0,1.86
+Solomon Islands,2010.0,1.13
+Sierra Leone,2010.0,0.29
+El Salvador,2010.0,2.81
+Somalia,2010.0,0.0
+Sub-Saharan Africa (Excluding High Income),2010.0,4.897092832
+Sub-Saharan Africa,2010.0,4.897407874
+Small States,2010.0,5.419581967
+Sao Tome And Principe,2010.0,5.58
+Suriname,2010.0,5.42
+Slovak Republic,2010.0,10.89
+Slovenia,2010.0,11.25
+Sweden,2010.0,9.72
+Eswatini,2010.0,7.25
+Seychelles,2010.0,7.18
+Syrian Arab Republic,2010.0,1.06
+Chad,2010.0,3.62
+East Asia & Pacific (Ida & Ibrd Countries),2010.0,4.672861718
+Europe & Central Asia (Ida & Ibrd Countries),2010.0,9.971053731
+Togo,2010.0,1.89
+Thailand,2010.0,7.41
+Tajikistan,2010.0,0.65
+Turkmenistan,2010.0,2.4
+Latin America & The Caribbean (Ida & Ibrd Countries),2010.0,6.778447201
+Timor-Leste,2010.0,0.13
+Middle East & North Africa (Ida & Ibrd Countries),2010.0,0.473080823
+Tonga,2010.0,1.3
+South Asia (Ida & Ibrd),2010.0,3.193391168
+Sub-Saharan Africa (Ida & Ibrd Countries),2010.0,4.897407874
+Trinidad And Tobago,2010.0,6.16
+Tunisia,2010.0,1.7
+Turkiye,2010.0,2.1
+Tuvalu,2010.0,1.47
+Tanzania,2010.0,11.51
+Uganda,2010.0,14.11
+Ukraine,2010.0,11.83
+Upper Middle Income,2010.0,4.996560777
+Uruguay,2010.0,6.35
+United States,2010.0,9.37
+Uzbekistan,2010.0,1.75
+St. Vincent And The Grenadines,2010.0,6.67
+"Venezuela, Rb",2010.0,8.25
+Viet Nam,2010.0,6.83
+Vanuatu,2010.0,1.41
+World,2010.0,5.531952224
+Samoa,2010.0,3.13
+"Yemen, Rep.",2010.0,0.06
+South Africa,2010.0,8.67
+Zambia,2010.0,3.22
+Zimbabwe,2010.0,2.86
+Africa Eastern And Southern,2011.0,4.742251511
+Afghanistan,2011.0,0.012
+Africa Western And Central,2011.0,4.706635003
+Angola,2011.0,8.32
+Albania,2011.0,5.9
+Andorra,2011.0,10.78
+Arab World,2011.0,0.41172557
+United Arab Emirates,2011.0,1.96
+Argentina,2011.0,7.69
+Armenia,2011.0,5.06
+Antigua And Barbuda,2011.0,5.74
+Australia,2011.0,11.1
+Austria,2011.0,12.23
+Azerbaijan,2011.0,1.81
+Burundi,2011.0,6.17
+Belgium,2011.0,11.33
+Benin,2011.0,6.61
+Burkina Faso,2011.0,8.11
+Bangladesh,2011.0,0.004
+Bulgaria,2011.0,10.66
+Bahrain,2011.0,2.35
+"Bahamas, The",2011.0,4.33
+Bosnia And Herzegovina,2011.0,5.74
+Belarus,2011.0,14.99
+Belize,2011.0,6.13
+Bolivia,2011.0,4.66
+Brazil,2011.0,8.63
+Barbados,2011.0,8.27
+Brunei Darussalam,2011.0,0.28
+Bhutan,2011.0,0.68
+Botswana,2011.0,7.47
+Central African Republic,2011.0,2.45
+Canada,2011.0,10.21
+Central Europe And The Baltics,2011.0,12.62525972
+Switzerland,2011.0,11.32
+Chile,2011.0,7.79
+China,2011.0,5.9
+Cote D'Ivoire,2011.0,2.82
+Cameroon,2011.0,12.55
+"Congo, Dem. Rep.",2011.0,3.06
+"Congo, Rep.",2011.0,4.65
+Colombia,2011.0,5.07
+Comoros,2011.0,0.2
+Cabo Verde,2011.0,5.63
+Costa Rica,2011.0,4.0
+Caribbean Small States,2011.0,6.25365915
+Cuba,2011.0,5.5
+Cyprus,2011.0,9.12
+Czechia,2011.0,13.33
+Germany,2011.0,12.41
+Djibouti,2011.0,0.69
+Dominica,2011.0,6.55
+Denmark,2011.0,10.39
+Dominican Republic,2011.0,6.84
+Algeria,2011.0,0.44
+East Asia & Pacific (Excluding High Income),2011.0,5.159752384
+Early-Demographic Dividend,2011.0,3.274167994
+East Asia & Pacific,2011.0,5.427243656
+Europe & Central Asia (Excluding High Income),2011.0,5.859810292
+Europe & Central Asia,2011.0,10.25211777
+Ecuador,2011.0,4.12
+"Egypt, Arab Rep.",2011.0,0.2
+Euro Area,2011.0,10.65685342
+Eritrea,2011.0,1.45
+Spain,2011.0,9.49
+Estonia,2011.0,14.23
+Ethiopia,2011.0,1.67
+European Union,2011.0,11.07711106
+Fragile And Conflict Affected Situations,2011.0,3.78702277
+Finland,2011.0,10.74
+Fiji,2011.0,2.85
+France,2011.0,12.25
+"Micronesia, Fed. Sts.",2011.0,2.5
+Gabon,2011.0,8.91
+United Kingdom,2011.0,10.95
+Georgia,2011.0,14.84
+Ghana,2011.0,5.45
+Guinea,2011.0,0.31
+"Gambia, The",2011.0,3.17
+Guinea-Bissau,2011.0,3.88
+Equatorial Guinea,2011.0,9.16
+Greece,2011.0,8.72
+Grenada,2011.0,7.55
+Guatemala,2011.0,2.04
+Guyana,2011.0,5.77
+High Income,2011.0,9.927338358
+Honduras,2011.0,3.13
+Heavily Indebted Poor Countries (Hipc),2011.0,3.973044115
+Croatia,2011.0,9.48
+Haiti,2011.0,3.14
+Hungary,2011.0,10.84
+Ibrd Only,2011.0,5.569852519
+Ida & Ibrd Total,2011.0,4.982891679
+Ida Total,2011.0,2.639907995
+Ida Blend,2011.0,2.692079907
+Indonesia,2011.0,0.1
+Ida Only,2011.0,2.613296068
+India,2011.0,4.62
+Ireland,2011.0,12.21
+"Iran, Islamic Rep.",2011.0,1.12
+Iraq,2011.0,0.24
+Iceland,2011.0,7.47
+Israel,2011.0,3.16
+Italy,2011.0,7.22
+Jamaica,2011.0,3.04
+Jordan,2011.0,0.48
+Japan,2011.0,6.77
+Kazakhstan,2011.0,4.2
+Kenya,2011.0,2.51
+Kyrgyz Republic,2011.0,6.39
+Cambodia,2011.0,4.71
+Kiribati,2011.0,0.65
+St. Kitts And Nevis,2011.0,6.47
+"Korea, Rep.",2011.0,9.38
+Kuwait,2011.0,0.0
+Latin America & Caribbean (Excluding High Income),2011.0,6.66081982
+Lao Pdr,2011.0,10.42
+Lebanon,2011.0,1.82
+Liberia,2011.0,3.9
+Libya,2011.0,0.007
+St. Lucia,2011.0,9.6
+Latin America & Caribbean,2011.0,6.741959286
+Least Developed Countries: Un Classification,2011.0,2.685981348
+Low Income,2011.0,2.754901973
+Sri Lanka,2011.0,2.6
+Lower Middle Income,2011.0,3.896199725
+Low & Middle Income,2011.0,4.566480602
+Lesotho,2011.0,3.39
+Late-Demographic Dividend,2011.0,6.796231847
+Lithuania,2011.0,14.05
+Luxembourg,2011.0,12.13
+Latvia,2011.0,10.99
+Morocco,2011.0,0.5
+Moldova,2011.0,11.43
+Madagascar,2011.0,1.06
+Maldives,2011.0,1.56
+Middle East & North Africa,2011.0,0.664873727
+Mexico,2011.0,5.23
+Middle Income,2011.0,4.704680801
+North Macedonia,2011.0,4.32
+Mali,2011.0,3.4
+Malta,2011.0,6.91
+Myanmar,2011.0,1.1
+Middle East & North Africa (Excluding High Income),2011.0,0.609533177
+Montenegro,2011.0,10.4
+Mongolia,2011.0,7.76
+Mozambique,2011.0,1.23
+Mauritania,2011.0,0.0
+Mauritius,2011.0,7.67
+Malawi,2011.0,3.57
+Malaysia,2011.0,0.6
+North America,2011.0,9.429363683
+Namibia,2011.0,4.96
+Niger,2011.0,0.17
+Nigeria,2011.0,5.06
+Nicaragua,2011.0,3.75
+Netherlands,2011.0,10.2
+Norway,2011.0,7.43
+Nepal,2011.0,0.95
+Nauru,2011.0,4.16
+New Zealand,2011.0,10.28
+Oecd Members,2011.0,8.803765105
+Oman,2011.0,0.88
+Other Small States,2011.0,5.943556524
+Pakistan,2011.0,0.079
+Panama,2011.0,6.51
+Peru,2011.0,7.54
+Philippines,2011.0,6.12
+Papua New Guinea,2011.0,1.4
+Poland,2011.0,11.3
+Pre-Demographic Dividend,2011.0,4.375779285
+"Korea, Dem. People'S Rep.",2011.0,4.43
+Portugal,2011.0,11.4
+Paraguay,2011.0,6.37
+Pacific Island Small States,2011.0,2.11850033
+Post-Demographic Dividend,2011.0,9.723968419
+Qatar,2011.0,1.17
+Romania,2011.0,17.62
+Russian Federation,2011.0,13.76
+Rwanda,2011.0,1.25
+South Asia,2011.0,3.588380823
+Saudi Arabia,2011.0,0.0
+Sudan,2011.0,0.045
+Senegal,2011.0,0.41
+Singapore,2011.0,1.92
+Solomon Islands,2011.0,1.12
+Sierra Leone,2011.0,0.31
+El Salvador,2011.0,2.71
+Somalia,2011.0,0.0
+Serbia,2011.0,9.93
+Sub-Saharan Africa (Excluding High Income),2011.0,4.727374174
+Sub-Saharan Africa,2011.0,4.727796445
+Small States,2011.0,5.555275984
+Sao Tome And Principe,2011.0,5.92
+Suriname,2011.0,5.7
+Slovak Republic,2011.0,10.54
+Slovenia,2011.0,11.14
+Sweden,2011.0,9.79
+Eswatini,2011.0,7.15
+Seychelles,2011.0,7.77
+Syrian Arab Republic,2011.0,0.99
+Chad,2011.0,3.86
+East Asia & Pacific (Ida & Ibrd Countries),2011.0,5.168972578
+Europe & Central Asia (Ida & Ibrd Countries),2011.0,9.740717404
+Togo,2011.0,1.79
+Thailand,2011.0,7.57
+Tajikistan,2011.0,0.69
+Turkmenistan,2011.0,2.66
+Latin America & The Caribbean (Ida & Ibrd Countries),2011.0,6.77149151
+Timor-Leste,2011.0,0.3
+Middle East & North Africa (Ida & Ibrd Countries),2011.0,0.609533177
+Tonga,2011.0,1.18
+South Asia (Ida & Ibrd),2011.0,3.588380823
+Sub-Saharan Africa (Ida & Ibrd Countries),2011.0,4.727796445
+Trinidad And Tobago,2011.0,6.15
+Tunisia,2011.0,1.66
+Turkiye,2011.0,2.12
+Tuvalu,2011.0,1.59
+Tanzania,2011.0,11.92
+Uganda,2011.0,14.0
+Ukraine,2011.0,11.66
+Upper Middle Income,2011.0,5.378977864
+Uruguay,2011.0,6.31
+United States,2011.0,9.34
+Uzbekistan,2011.0,1.79
+St. Vincent And The Grenadines,2011.0,6.66
+"Venezuela, Rb",2011.0,7.75
+Viet Nam,2011.0,7.37
+Vanuatu,2011.0,1.67
+World,2011.0,5.720213722
+Samoa,2011.0,2.59
+"Yemen, Rep.",2011.0,0.058
+South Africa,2011.0,8.68
+Zambia,2011.0,3.31
+Zimbabwe,2011.0,3.31
+Africa Eastern And Southern,2012.0,4.704091778
+Afghanistan,2012.0,0.008
+Africa Western And Central,2012.0,4.302131352
+Angola,2012.0,8.59
+Albania,2012.0,5.58
+Andorra,2012.0,10.47
+Arab World,2012.0,0.39355245
+United Arab Emirates,2012.0,1.99
+Argentina,2012.0,8.11
+Armenia,2012.0,5.03
+Antigua And Barbuda,2012.0,5.91
+Australia,2012.0,10.9
+Austria,2012.0,12.35
+Azerbaijan,2012.0,1.78
+Burundi,2012.0,5.24
+Belgium,2012.0,11.32
+Benin,2012.0,8.65
+Burkina Faso,2012.0,8.14
+Bangladesh,2012.0,0.004
+Bulgaria,2012.0,10.87
+Bahrain,2012.0,2.27
+"Bahamas, The",2012.0,4.36
+Bosnia And Herzegovina,2012.0,5.78
+Belarus,2012.0,14.82
+Belize,2012.0,6.11
+Bolivia,2012.0,4.52
+Brazil,2012.0,8.69
+Barbados,2012.0,8.35
+Brunei Darussalam,2012.0,0.42
+Bhutan,2012.0,0.83
+Botswana,2012.0,7.86
+Central African Republic,2012.0,2.54
+Canada,2012.0,10.17
+Central Europe And The Baltics,2012.0,12.56029636
+Switzerland,2012.0,11.21
+Chile,2012.0,8.01
+China,2012.0,6.5
+Cote D'Ivoire,2012.0,2.12
+Cameroon,2012.0,12.78
+"Congo, Dem. Rep.",2012.0,2.4
+"Congo, Rep.",2012.0,4.96
+Colombia,2012.0,5.06
+Comoros,2012.0,0.18
+Cabo Verde,2012.0,5.81
+Costa Rica,2012.0,3.68
+Caribbean Small States,2012.0,6.293509783
+Cuba,2012.0,5.55
+Cyprus,2012.0,9.07
+Czechia,2012.0,13.13
+Germany,2012.0,12.39
+Djibouti,2012.0,0.67
+Dominica,2012.0,6.37
+Denmark,2012.0,10.11
+Dominican Republic,2012.0,6.78
+Algeria,2012.0,0.44
+East Asia & Pacific (Excluding High Income),2012.0,5.62513975
+Early-Demographic Dividend,2012.0,3.419436073
+East Asia & Pacific,2012.0,5.84227502
+Europe & Central Asia (Excluding High Income),2012.0,5.644675472
+Europe & Central Asia,2012.0,10.15122771
+Ecuador,2012.0,4.19
+"Egypt, Arab Rep.",2012.0,0.2
+Euro Area,2012.0,10.59146311
+Eritrea,2012.0,1.42
+Spain,2012.0,9.0
+Estonia,2012.0,14.73
+Ethiopia,2012.0,1.81
+European Union,2012.0,11.00224066
+Fragile And Conflict Affected Situations,2012.0,3.517975201
+Finland,2012.0,10.5
+Fiji,2012.0,2.81
+France,2012.0,12.11
+"Micronesia, Fed. Sts.",2012.0,2.83
+Gabon,2012.0,8.68
+United Kingdom,2012.0,10.79
+Georgia,2012.0,14.99
+Ghana,2012.0,5.31
+Guinea,2012.0,0.34
+"Gambia, The",2012.0,3.05
+Guinea-Bissau,2012.0,3.93
+Equatorial Guinea,2012.0,9.98
+Greece,2012.0,8.48
+Grenada,2012.0,7.46
+Guatemala,2012.0,2.0
+Guyana,2012.0,5.83
+High Income,2012.0,9.868764666
+Honduras,2012.0,3.1
+Heavily Indebted Poor Countries (Hipc),2012.0,3.937187158
+Croatia,2012.0,9.42
+Haiti,2012.0,2.74
+Hungary,2012.0,10.72
+Ibrd Only,2012.0,5.83789189
+Ida & Ibrd Total,2012.0,5.170477498
+Ida Total,2012.0,2.546297437
+Ida Blend,2012.0,2.389246527
+Indonesia,2012.0,0.11
+Ida Only,2012.0,2.626461637
+India,2012.0,4.89
+Ireland,2012.0,12.29
+"Iran, Islamic Rep.",2012.0,1.46
+Iraq,2012.0,0.25
+Iceland,2012.0,7.34
+Israel,2012.0,3.21
+Italy,2012.0,7.57
+Jamaica,2012.0,3.13
+Jordan,2012.0,0.45
+Japan,2012.0,6.77
+Kazakhstan,2012.0,4.39
+Kenya,2012.0,2.68
+Kyrgyz Republic,2012.0,6.54
+Cambodia,2012.0,5.4
+Kiribati,2012.0,0.59
+St. Kitts And Nevis,2012.0,6.13
+"Korea, Rep.",2012.0,9.37
+Kuwait,2012.0,0.0
+Latin America & Caribbean (Excluding High Income),2012.0,6.687856018
+Lao Pdr,2012.0,10.7
+Lebanon,2012.0,1.75
+Liberia,2012.0,3.78
+Libya,2012.0,0.007
+St. Lucia,2012.0,9.24
+Latin America & Caribbean,2012.0,6.756485205
+Least Developed Countries: Un Classification,2012.0,2.727431603
+Low Income,2012.0,2.711310796
+Sri Lanka,2012.0,2.89
+Lower Middle Income,2012.0,4.020286546
+Low & Middle Income,2012.0,4.776839612
+Lesotho,2012.0,3.07
+Late-Demographic Dividend,2012.0,7.173578387
+Lithuania,2012.0,14.66
+Luxembourg,2012.0,12.04
+Latvia,2012.0,11.07
+Morocco,2012.0,0.48
+Moldova,2012.0,12.0
+Madagascar,2012.0,0.96
+Maldives,2012.0,1.52
+Middle East & North Africa,2012.0,0.720415029
+Mexico,2012.0,5.05
+Middle Income,2012.0,4.937081748
+North Macedonia,2012.0,4.34
+Mali,2012.0,4.7
+Malta,2012.0,6.95
+Myanmar,2012.0,1.23
+Middle East & North Africa (Excluding High Income),2012.0,0.674797666
+Mongolia,2012.0,8.07
+Mozambique,2012.0,1.33
+Mauritania,2012.0,0.0
+Mauritius,2012.0,7.61
+Malawi,2012.0,3.71
+Malaysia,2012.0,0.62
+North America,2012.0,9.470307861
+Namibia,2012.0,5.08
+Niger,2012.0,0.18
+Nigeria,2012.0,3.98
+Nicaragua,2012.0,3.85
+Netherlands,2012.0,10.17
+Norway,2012.0,7.25
+Nepal,2012.0,1.24
+Nauru,2012.0,4.75
+New Zealand,2012.0,10.25
+Oecd Members,2012.0,8.754867018
+Oman,2012.0,0.87
+Other Small States,2012.0,5.711764383
+Pakistan,2012.0,0.085
+Panama,2012.0,6.54
+Peru,2012.0,8.0
+Philippines,2012.0,6.33
+Papua New Guinea,2012.0,1.25
+Poland,2012.0,11.29
+Pre-Demographic Dividend,2012.0,4.121684923
+"Korea, Dem. People'S Rep.",2012.0,4.51
+Portugal,2012.0,10.86
+Paraguay,2012.0,6.27
+Pacific Island Small States,2012.0,2.091360398
+Post-Demographic Dividend,2012.0,9.68806733
+Qatar,2012.0,1.16
+Romania,2012.0,17.32
+Russian Federation,2012.0,13.6
+Rwanda,2012.0,1.26
+South Asia,2012.0,3.800137946
+Saudi Arabia,2012.0,0.0
+Sudan,2012.0,0.046
+Senegal,2012.0,0.4
+Singapore,2012.0,1.99
+Solomon Islands,2012.0,1.01
+Sierra Leone,2012.0,0.35
+El Salvador,2012.0,2.68
+Somalia,2012.0,0.0
+Sub-Saharan Africa (Excluding High Income),2012.0,4.540460811
+Sub-Saharan Africa,2012.0,4.541047655
+Small States,2012.0,5.37766211
+Sao Tome And Principe,2012.0,6.38
+Suriname,2012.0,5.98
+Slovak Republic,2012.0,10.38
+Slovenia,2012.0,11.28
+Sweden,2012.0,9.72
+Eswatini,2012.0,6.9
+Seychelles,2012.0,8.98
+Syrian Arab Republic,2012.0,0.74
+Chad,2012.0,4.05
+East Asia & Pacific (Ida & Ibrd Countries),2012.0,5.639236992
+Europe & Central Asia (Ida & Ibrd Countries),2012.0,9.618624768
+Togo,2012.0,1.72
+Thailand,2012.0,7.87
+Tajikistan,2012.0,0.72
+Turkmenistan,2012.0,3.0
+Latin America & The Caribbean (Ida & Ibrd Countries),2012.0,6.784826527
+Timor-Leste,2012.0,0.48
+Middle East & North Africa (Ida & Ibrd Countries),2012.0,0.674797666
+Tonga,2012.0,0.83
+South Asia (Ida & Ibrd),2012.0,3.800137946
+Sub-Saharan Africa (Ida & Ibrd Countries),2012.0,4.541047655
+Trinidad And Tobago,2012.0,6.18
+Tunisia,2012.0,1.66
+Turkiye,2012.0,2.14
+Tuvalu,2012.0,1.84
+Tanzania,2012.0,11.8
+Uganda,2012.0,13.92
+Ukraine,2012.0,11.53
+Upper Middle Income,2012.0,5.712662529
+Uruguay,2012.0,5.91
+United States,2012.0,9.39
+Uzbekistan,2012.0,1.85
+St. Vincent And The Grenadines,2012.0,6.57
+"Venezuela, Rb",2012.0,7.44
+Viet Nam,2012.0,7.81
+Vanuatu,2012.0,1.98
+World,2012.0,5.862526502
+Samoa,2012.0,2.44
+"Yemen, Rep.",2012.0,0.062
+South Africa,2012.0,8.79
+Zambia,2012.0,3.34
+Zimbabwe,2012.0,3.75
+Africa Eastern And Southern,2013.0,4.728018464
+Afghanistan,2013.0,0.004
+Africa Western And Central,2013.0,4.431000393
+Angola,2013.0,8.61
+Albania,2013.0,5.37
+Andorra,2013.0,10.32
+Arab World,2013.0,0.375877343
+United Arab Emirates,2013.0,2.04
+Argentina,2013.0,8.4
+Armenia,2013.0,4.91
+Antigua And Barbuda,2013.0,6.44
+Australia,2013.0,10.72
+Austria,2013.0,12.34
+Azerbaijan,2013.0,1.51
+Burundi,2013.0,4.66
+Belgium,2013.0,11.33
+Benin,2013.0,8.82
+Burkina Faso,2013.0,8.16
+Bangladesh,2013.0,0.005
+Bulgaria,2013.0,11.03
+Bahrain,2013.0,2.14
+"Bahamas, The",2013.0,4.37
+Bosnia And Herzegovina,2013.0,5.82
+Belarus,2013.0,14.22
+Belize,2013.0,6.15
+Bolivia,2013.0,4.45
+Brazil,2013.0,8.57
+Barbados,2013.0,8.48
+Brunei Darussalam,2013.0,0.51
+Bhutan,2013.0,0.9
+Botswana,2013.0,7.58
+Central African Republic,2013.0,2.29
+Canada,2013.0,10.1
+Central Europe And The Baltics,2013.0,12.62918477
+Switzerland,2013.0,11.1
+Chile,2013.0,7.9
+China,2013.0,6.92
+Cote D'Ivoire,2013.0,2.15
+Cameroon,2013.0,12.98
+"Congo, Dem. Rep.",2013.0,2.55
+"Congo, Rep.",2013.0,5.1
+Colombia,2013.0,5.09
+Comoros,2013.0,0.21
+Cabo Verde,2013.0,5.58
+Costa Rica,2013.0,3.43
+Caribbean Small States,2013.0,6.350261616
+Cuba,2013.0,5.58
+Cyprus,2013.0,8.52
+Czechia,2013.0,13.08
+Germany,2013.0,12.39
+Djibouti,2013.0,0.66
+Dominica,2013.0,6.39
+Denmark,2013.0,9.83
+Dominican Republic,2013.0,6.73
+Algeria,2013.0,0.48
+East Asia & Pacific (Excluding High Income),2013.0,5.934672075
+Early-Demographic Dividend,2013.0,3.473118256
+East Asia & Pacific,2013.0,6.118607241
+Europe & Central Asia (Excluding High Income),2013.0,5.599989852
+Europe & Central Asia,2013.0,10.04435637
+Ecuador,2013.0,4.19
+"Egypt, Arab Rep.",2013.0,0.19
+Euro Area,2013.0,10.52849124
+Eritrea,2013.0,1.4
+Spain,2013.0,8.88
+Estonia,2013.0,15.45
+Ethiopia,2013.0,1.95
+European Union,2013.0,10.95829451
+Fragile And Conflict Affected Situations,2013.0,3.601666908
+Finland,2013.0,10.28
+Fiji,2013.0,2.95
+France,2013.0,11.93
+"Micronesia, Fed. Sts.",2013.0,2.77
+Gabon,2013.0,8.41
+United Kingdom,2013.0,10.57
+Georgia,2013.0,14.67
+Ghana,2013.0,5.07
+Guinea,2013.0,0.36
+"Gambia, The",2013.0,2.87
+Guinea-Bissau,2013.0,3.94
+Equatorial Guinea,2013.0,9.97
+Greece,2013.0,8.24
+Grenada,2013.0,7.48
+Guatemala,2013.0,1.93
+Guyana,2013.0,5.89
+High Income,2013.0,9.810202326
+Honduras,2013.0,3.1
+Heavily Indebted Poor Countries (Hipc),2013.0,3.936374394
+Croatia,2013.0,9.32
+Haiti,2013.0,2.95
+Hungary,2013.0,10.72
+Ibrd Only,2013.0,5.986197424
+Ida & Ibrd Total,2013.0,5.293178156
+Ida Total,2013.0,2.600409949
+Ida Blend,2013.0,2.521115246
+Indonesia,2013.0,0.11
+Ida Only,2013.0,2.640816238
+India,2013.0,5.02
+Ireland,2013.0,11.93
+"Iran, Islamic Rep.",2013.0,1.41
+Iraq,2013.0,0.24
+Iceland,2013.0,7.33
+Israel,2013.0,3.22
+Italy,2013.0,7.69
+Jamaica,2013.0,3.2
+Jordan,2013.0,0.42
+Japan,2013.0,6.8
+Kazakhstan,2013.0,4.32
+Kenya,2013.0,2.75
+Kyrgyz Republic,2013.0,6.54
+Cambodia,2013.0,5.77
+Kiribati,2013.0,0.6
+St. Kitts And Nevis,2013.0,6.1
+"Korea, Rep.",2013.0,9.33
+Kuwait,2013.0,0.0
+Latin America & Caribbean (Excluding High Income),2013.0,6.635593335
+Lao Pdr,2013.0,10.73
+Lebanon,2013.0,1.62
+Liberia,2013.0,3.71
+Libya,2013.0,0.008
+St. Lucia,2013.0,8.83
+Latin America & Caribbean,2013.0,6.696612405
+Least Developed Countries: Un Classification,2013.0,2.75446017
+Low Income,2013.0,2.713108445
+Sri Lanka,2013.0,3.01
+Lower Middle Income,2013.0,4.116088497
+Low & Middle Income,2013.0,4.920614258
+Lesotho,2013.0,2.98
+Late-Demographic Dividend,2013.0,7.415751914
+Lithuania,2013.0,15.54
+Luxembourg,2013.0,11.95
+Latvia,2013.0,11.19
+Morocco,2013.0,0.47
+Moldova,2013.0,12.44
+Madagascar,2013.0,0.93
+Maldives,2013.0,1.48
+Middle East & North Africa,2013.0,0.692903314
+Mexico,2013.0,4.92
+Middle Income,2013.0,5.094290451
+North Macedonia,2013.0,4.34
+Mali,2013.0,4.45
+Malta,2013.0,7.15
+Myanmar,2013.0,1.35
+Middle East & North Africa (Excluding High Income),2013.0,0.642590169
+Mongolia,2013.0,9.62
+Mozambique,2013.0,1.42
+Mauritania,2013.0,0.0
+Mauritius,2013.0,7.59
+Malawi,2013.0,3.71
+Malaysia,2013.0,0.63
+North America,2013.0,9.53505881
+Namibia,2013.0,5.34
+Niger,2013.0,0.18
+Nigeria,2013.0,4.28
+Nicaragua,2013.0,3.92
+Netherlands,2013.0,9.99
+Norway,2013.0,7.1
+Nepal,2013.0,1.26
+Nauru,2013.0,4.02
+New Zealand,2013.0,10.07
+Oecd Members,2013.0,8.720207123
+Oman,2013.0,0.84
+Other Small States,2013.0,5.763145281
+Pakistan,2013.0,0.084
+Panama,2013.0,6.57
+Peru,2013.0,8.07
+Philippines,2013.0,6.17
+Papua New Guinea,2013.0,1.36
+Poland,2013.0,11.48
+Pre-Demographic Dividend,2013.0,4.18122744
+"Korea, Dem. People'S Rep.",2013.0,4.52
+Portugal,2013.0,10.33
+Paraguay,2013.0,6.06
+Pacific Island Small States,2013.0,2.088828666
+Post-Demographic Dividend,2013.0,9.676575205
+Qatar,2013.0,1.14
+Romania,2013.0,17.18
+Russian Federation,2013.0,13.32
+Rwanda,2013.0,1.25
+South Asia,2013.0,3.898654494
+Saudi Arabia,2013.0,0.0
+Sudan,2013.0,0.046
+Senegal,2013.0,0.38
+Singapore,2013.0,1.99
+Solomon Islands,2013.0,0.95
+Sierra Leone,2013.0,0.41
+El Salvador,2013.0,2.69
+Somalia,2013.0,0.0
+Sub-Saharan Africa (Excluding High Income),2013.0,4.607009639
+Sub-Saharan Africa,2013.0,4.607670096
+Small States,2013.0,5.423773839
+Sao Tome And Principe,2013.0,6.91
+Suriname,2013.0,6.17
+Slovak Republic,2013.0,10.3
+Slovenia,2013.0,11.01
+Sweden,2013.0,9.66
+Eswatini,2013.0,7.61
+Seychelles,2013.0,9.68
+Syrian Arab Republic,2013.0,0.46
+Chad,2013.0,4.25
+East Asia & Pacific (Ida & Ibrd Countries),2013.0,5.952550592
+Europe & Central Asia (Ida & Ibrd Countries),2013.0,9.491497798
+Togo,2013.0,1.73
+Thailand,2013.0,8.08
+Tajikistan,2013.0,0.76
+Turkmenistan,2013.0,3.09
+Latin America & The Caribbean (Ida & Ibrd Countries),2013.0,6.72257831
+Timor-Leste,2013.0,0.6
+Middle East & North Africa (Ida & Ibrd Countries),2013.0,0.642590169
+Tonga,2013.0,0.44
+South Asia (Ida & Ibrd),2013.0,3.898654494
+Sub-Saharan Africa (Ida & Ibrd Countries),2013.0,4.607670096
+Trinidad And Tobago,2013.0,6.2
+Tunisia,2013.0,1.72
+Turkiye,2013.0,2.08
+Tuvalu,2013.0,2.09
+Tanzania,2013.0,11.59
+Uganda,2013.0,13.65
+Ukraine,2013.0,11.78
+Upper Middle Income,2013.0,5.930266073
+Uruguay,2013.0,5.74
+United States,2013.0,9.47
+Uzbekistan,2013.0,1.92
+St. Vincent And The Grenadines,2013.0,6.53
+"Venezuela, Rb",2013.0,7.26
+Viet Nam,2013.0,8.09
+Vanuatu,2013.0,2.0
+World,2013.0,5.95369873
+Samoa,2013.0,2.16
+"Yemen, Rep.",2013.0,0.056
+South Africa,2013.0,8.9
+Zambia,2013.0,3.39
+Zimbabwe,2013.0,3.98
+Africa Eastern And Southern,2014.0,4.773502097
+Afghanistan,2014.0,0.004
+Africa Western And Central,2014.0,4.45416364
+Angola,2014.0,8.74
+Albania,2014.0,5.04
+Andorra,2014.0,10.14
+Arab World,2014.0,0.383174556
+United Arab Emirates,2014.0,2.13
+Argentina,2014.0,8.48
+Armenia,2014.0,4.96
+Antigua And Barbuda,2014.0,7.0
+Australia,2014.0,10.58
+Austria,2014.0,12.49
+Azerbaijan,2014.0,1.41
+Burundi,2014.0,4.08
+Belgium,2014.0,11.47
+Benin,2014.0,8.67
+Burkina Faso,2014.0,8.69
+Bangladesh,2014.0,0.005
+Bulgaria,2014.0,11.16
+Bahrain,2014.0,2.08
+"Bahamas, The",2014.0,4.36
+Bosnia And Herzegovina,2014.0,5.81
+Belarus,2014.0,13.18
+Belize,2014.0,6.27
+Bolivia,2014.0,4.4
+Brazil,2014.0,8.5
+Barbados,2014.0,8.64
+Brunei Darussalam,2014.0,0.47
+Bhutan,2014.0,0.85
+Botswana,2014.0,7.15
+Central African Republic,2014.0,2.04
+Canada,2014.0,10.05
+Central Europe And The Baltics,2014.0,12.61692489
+Switzerland,2014.0,10.96
+Chile,2014.0,8.19
+China,2014.0,7.16
+Cote D'Ivoire,2014.0,2.26
+Cameroon,2014.0,12.48
+"Congo, Dem. Rep.",2014.0,2.64
+"Congo, Rep.",2014.0,5.21
+Colombia,2014.0,5.06
+Comoros,2014.0,0.22
+Cabo Verde,2014.0,5.48
+Costa Rica,2014.0,3.39
+Caribbean Small States,2014.0,6.379679278
+Cuba,2014.0,5.66
+Cyprus,2014.0,8.26
+Czechia,2014.0,13.14
+Germany,2014.0,12.31
+Djibouti,2014.0,0.65
+Dominica,2014.0,6.4
+Denmark,2014.0,9.55
+Dominican Republic,2014.0,6.65
+Algeria,2014.0,0.52
+East Asia & Pacific (Excluding High Income),2014.0,6.108784465
+Early-Demographic Dividend,2014.0,3.465653656
+East Asia & Pacific,2014.0,6.264415595
+Europe & Central Asia (Excluding High Income),2014.0,5.434204733
+Europe & Central Asia,2014.0,9.874589564
+Ecuador,2014.0,4.13
+"Egypt, Arab Rep.",2014.0,0.19
+Euro Area,2014.0,10.45946743
+Eritrea,2014.0,1.35
+Spain,2014.0,8.59
+Estonia,2014.0,15.71
+Ethiopia,2014.0,2.11
+European Union,2014.0,10.89758043
+Fragile And Conflict Affected Situations,2014.0,3.590414058
+Finland,2014.0,9.92
+Fiji,2014.0,2.98
+France,2014.0,11.84
+"Micronesia, Fed. Sts.",2014.0,2.62
+Gabon,2014.0,8.47
+United Kingdom,2014.0,10.44
+Georgia,2014.0,14.22
+Ghana,2014.0,5.08
+Guinea,2014.0,0.39
+"Gambia, The",2014.0,2.76
+Guinea-Bissau,2014.0,3.91
+Equatorial Guinea,2014.0,9.73
+Greece,2014.0,8.1
+Grenada,2014.0,7.54
+Guatemala,2014.0,1.81
+Guyana,2014.0,5.95
+High Income,2014.0,9.708589189
+Honduras,2014.0,2.99
+Heavily Indebted Poor Countries (Hipc),2014.0,3.967861666
+Croatia,2014.0,8.91
+Haiti,2014.0,3.06
+Hungary,2014.0,10.58
+Ibrd Only,2014.0,6.017266153
+Ida & Ibrd Total,2014.0,5.320690285
+Ida Total,2014.0,2.642552681
+Ida Blend,2014.0,2.556898977
+Indonesia,2014.0,0.11
+Ida Only,2014.0,2.686113682
+India,2014.0,5.04
+Ireland,2014.0,11.72
+"Iran, Islamic Rep.",2014.0,0.79
+Iraq,2014.0,0.23
+Iceland,2014.0,7.38
+Israel,2014.0,3.14
+Italy,2014.0,7.88
+Jamaica,2014.0,3.27
+Jordan,2014.0,0.41
+Japan,2014.0,6.77
+Kazakhstan,2014.0,4.4
+Kenya,2014.0,2.79
+Kyrgyz Republic,2014.0,6.62
+Cambodia,2014.0,6.13
+Kiribati,2014.0,0.59
+St. Kitts And Nevis,2014.0,6.09
+"Korea, Rep.",2014.0,9.05
+Kuwait,2014.0,0.0
+Latin America & Caribbean (Excluding High Income),2014.0,6.581664003
+Lao Pdr,2014.0,10.82
+Lebanon,2014.0,1.55
+Liberia,2014.0,3.59
+Libya,2014.0,0.009
+St. Lucia,2014.0,8.61
+Latin America & Caribbean,2014.0,6.653192951
+Least Developed Countries: Un Classification,2014.0,2.809048712
+Low Income,2014.0,2.761440957
+Sri Lanka,2014.0,2.93
+Lower Middle Income,2014.0,4.140703216
+Low & Middle Income,2014.0,4.969257222
+Lesotho,2014.0,3.04
+Late-Demographic Dividend,2014.0,7.527828998
+Lithuania,2014.0,15.57
+Luxembourg,2014.0,11.86
+Latvia,2014.0,11.29
+Morocco,2014.0,0.46
+Moldova,2014.0,12.25
+Madagascar,2014.0,0.97
+Maldives,2014.0,1.45
+Middle East & North Africa,2014.0,0.557559283
+Mexico,2014.0,4.87
+Middle Income,2014.0,5.144942137
+North Macedonia,2014.0,4.32
+Mali,2014.0,4.44
+Malta,2014.0,7.27
+Myanmar,2014.0,1.45
+Middle East & North Africa (Excluding High Income),2014.0,0.483466902
+Mongolia,2014.0,10.66
+Mozambique,2014.0,1.51
+Mauritania,2014.0,0.0
+Mauritius,2014.0,7.51
+Malawi,2014.0,3.68
+Malaysia,2014.0,0.63
+North America,2014.0,9.556947359
+Namibia,2014.0,5.56
+Niger,2014.0,0.18
+Nigeria,2014.0,4.33
+Nicaragua,2014.0,3.99
+Netherlands,2014.0,9.77
+Norway,2014.0,6.96
+Nepal,2014.0,1.15
+Nauru,2014.0,3.35
+New Zealand,2014.0,9.91
+Oecd Members,2014.0,8.668349839
+Oman,2014.0,0.8
+Other Small States,2014.0,5.718712691
+Pakistan,2014.0,0.084
+Panama,2014.0,6.61
+Peru,2014.0,7.91
+Philippines,2014.0,6.06
+Papua New Guinea,2014.0,1.56
+Poland,2014.0,11.52
+Pre-Demographic Dividend,2014.0,4.203121027
+"Korea, Dem. People'S Rep.",2014.0,4.51
+Portugal,2014.0,10.12
+Paraguay,2014.0,5.78
+Pacific Island Small States,2014.0,2.052448458
+Post-Demographic Dividend,2014.0,9.606201802
+Qatar,2014.0,1.13
+Romania,2014.0,17.09
+Russian Federation,2014.0,12.84
+Rwanda,2014.0,1.3
+South Asia,2014.0,3.910246996
+Saudi Arabia,2014.0,0.0
+Sudan,2014.0,0.18
+Senegal,2014.0,0.37
+Singapore,2014.0,1.97
+Solomon Islands,2014.0,0.92
+Sierra Leone,2014.0,0.41
+El Salvador,2014.0,2.74
+Somalia,2014.0,0.0
+Sub-Saharan Africa (Excluding High Income),2014.0,4.64360851
+Sub-Saharan Africa,2014.0,4.644313864
+Small States,2014.0,5.393859462
+Sao Tome And Principe,2014.0,6.8
+Suriname,2014.0,6.07
+Slovak Republic,2014.0,10.29
+Slovenia,2014.0,11.11
+Sweden,2014.0,9.6
+Eswatini,2014.0,7.91
+Seychelles,2014.0,10.11
+Syrian Arab Republic,2014.0,0.27
+Chad,2014.0,4.41
+East Asia & Pacific (Ida & Ibrd Countries),2014.0,6.128991479
+Europe & Central Asia (Ida & Ibrd Countries),2014.0,9.22264555
+Togo,2014.0,1.72
+Thailand,2014.0,8.16
+Tajikistan,2014.0,0.8
+Turkmenistan,2014.0,3.18
+Latin America & The Caribbean (Ida & Ibrd Countries),2014.0,6.676157979
+Timor-Leste,2014.0,0.58
+Middle East & North Africa (Ida & Ibrd Countries),2014.0,0.483466902
+Tonga,2014.0,0.22
+South Asia (Ida & Ibrd),2014.0,3.910246996
+Sub-Saharan Africa (Ida & Ibrd Countries),2014.0,4.644313864
+Trinidad And Tobago,2014.0,6.24
+Tunisia,2014.0,1.84
+Turkiye,2014.0,2.03
+Tuvalu,2014.0,2.29
+Tanzania,2014.0,11.62
+Uganda,2014.0,13.47
+Ukraine,2014.0,11.42
+Upper Middle Income,2014.0,6.012074414
+Uruguay,2014.0,5.74
+United States,2014.0,9.5
+Uzbekistan,2014.0,2.18
+St. Vincent And The Grenadines,2014.0,6.58
+"Venezuela, Rb",2014.0,7.17
+Viet Nam,2014.0,8.28
+Vanuatu,2014.0,1.87
+World,2014.0,5.962490231
+Samoa,2014.0,2.13
+"Yemen, Rep.",2014.0,0.055
+South Africa,2014.0,8.92
+Zambia,2014.0,3.57
+Zimbabwe,2014.0,4.07
+Africa Eastern And Southern,2015.0,4.781682076
+Afghanistan,2015.0,0.004
+Africa Western And Central,2015.0,4.470557181
+Angola,2015.0,8.32
+Albania,2015.0,5.0
+Andorra,2015.0,10.38
+Arab World,2015.0,0.391676583
+United Arab Emirates,2015.0,2.25
+Argentina,2015.0,8.63
+Armenia,2015.0,4.99
+Antigua And Barbuda,2015.0,7.24
+Australia,2015.0,10.46
+Austria,2015.0,12.33
+Azerbaijan,2015.0,1.4
+Burundi,2015.0,4.34
+Belgium,2015.0,11.56
+Benin,2015.0,8.45
+Burkina Faso,2015.0,9.16
+Bangladesh,2015.0,0.005
+Bulgaria,2015.0,11.18
+Bahrain,2015.0,2.0
+"Bahamas, The",2015.0,4.35
+Bosnia And Herzegovina,2015.0,5.83
+Belarus,2015.0,11.96
+Belize,2015.0,6.37
+Bolivia,2015.0,4.35
+Brazil,2015.0,8.34
+Barbados,2015.0,8.85
+Brunei Darussalam,2015.0,0.41
+Bhutan,2015.0,0.57
+Botswana,2015.0,7.01
+Central African Republic,2015.0,1.83
+Canada,2015.0,9.95
+Central Europe And The Baltics,2015.0,12.5885736
+Switzerland,2015.0,10.87
+Chile,2015.0,8.04
+China,2015.0,7.29
+Cote D'Ivoire,2015.0,2.44
+Cameroon,2015.0,11.72
+"Congo, Dem. Rep.",2015.0,2.58
+"Congo, Rep.",2015.0,5.24
+Colombia,2015.0,4.98
+Comoros,2015.0,0.22
+Cabo Verde,2015.0,5.52
+Costa Rica,2015.0,3.39
+Caribbean Small States,2015.0,6.333996178
+Cuba,2015.0,5.77
+Cyprus,2015.0,8.01
+Czechia,2015.0,13.11
+Germany,2015.0,12.23
+Djibouti,2015.0,0.59
+Dominica,2015.0,6.41
+Denmark,2015.0,9.6
+Dominican Republic,2015.0,6.59
+Algeria,2015.0,0.56
+East Asia & Pacific (Excluding High Income),2015.0,6.196452095
+Early-Demographic Dividend,2015.0,3.451537685
+East Asia & Pacific,2015.0,6.335131174
+Europe & Central Asia (Excluding High Income),2015.0,5.13978004
+Europe & Central Asia,2015.0,9.676849465
+Ecuador,2015.0,4.06
+"Egypt, Arab Rep.",2015.0,0.19
+Euro Area,2015.0,10.44753239
+Eritrea,2015.0,1.35
+Spain,2015.0,9.19
+Estonia,2015.0,15.64
+Ethiopia,2015.0,2.27
+European Union,2015.0,10.88360419
+Fragile And Conflict Affected Situations,2015.0,3.532251496
+Finland,2015.0,9.66
+Fiji,2015.0,3.03
+France,2015.0,11.73
+"Micronesia, Fed. Sts.",2015.0,2.1
+Gabon,2015.0,8.66
+United Kingdom,2015.0,10.44
+Georgia,2015.0,14.02
+Ghana,2015.0,5.1
+Guinea,2015.0,0.45
+"Gambia, The",2015.0,2.35
+Guinea-Bissau,2015.0,3.91
+Equatorial Guinea,2015.0,9.21
+Greece,2015.0,7.77
+Grenada,2015.0,7.63
+Guatemala,2015.0,1.72
+Guyana,2015.0,5.87
+High Income,2015.0,9.593761647
+Honduras,2015.0,2.91
+Heavily Indebted Poor Countries (Hipc),2015.0,3.98839912
+Croatia,2015.0,8.69
+Haiti,2015.0,3.19
+Hungary,2015.0,10.52
+Ibrd Only,2015.0,5.984767581
+Ida & Ibrd Total,2015.0,5.297459889
+Ida Total,2015.0,2.683818658
+Ida Blend,2015.0,2.575270226
+Indonesia,2015.0,0.11
+Ida Only,2015.0,2.738870507
+India,2015.0,5.02
+Ireland,2015.0,11.49
+"Iran, Islamic Rep.",2015.0,0.42
+Iraq,2015.0,0.23
+Iceland,2015.0,7.64
+Israel,2015.0,3.03
+Italy,2015.0,7.77
+Jamaica,2015.0,3.35
+Jordan,2015.0,0.38
+Japan,2015.0,6.76
+Kazakhstan,2015.0,4.25
+Kenya,2015.0,2.8
+Kyrgyz Republic,2015.0,6.41
+Cambodia,2015.0,6.55
+Kiribati,2015.0,0.59
+St. Kitts And Nevis,2015.0,6.08
+"Korea, Rep.",2015.0,8.81
+Kuwait,2015.0,0.0
+Latin America & Caribbean (Excluding High Income),2015.0,6.526683622
+Lao Pdr,2015.0,11.02
+Lebanon,2015.0,1.53
+Liberia,2015.0,3.63
+Libya,2015.0,0.009
+St. Lucia,2015.0,8.49
+Latin America & Caribbean,2015.0,6.591103129
+Least Developed Countries: Un Classification,2015.0,2.85041463
+Low Income,2015.0,2.810017345
+Sri Lanka,2015.0,2.86
+Lower Middle Income,2015.0,4.136443554
+Low & Middle Income,2015.0,4.971599711
+Lesotho,2015.0,3.24
+Late-Demographic Dividend,2015.0,7.542294273
+Lithuania,2015.0,14.96
+Luxembourg,2015.0,11.76
+Latvia,2015.0,11.4
+Morocco,2015.0,0.43
+Moldova,2015.0,11.8
+Madagascar,2015.0,1.01
+Maldives,2015.0,1.39
+Middle East & North Africa,2015.0,0.485539566
+Mexico,2015.0,4.98
+Middle Income,2015.0,5.145690141
+North Macedonia,2015.0,4.31
+Mali,2015.0,4.45
+Malta,2015.0,7.41
+Myanmar,2015.0,1.52
+Middle East & North Africa (Excluding High Income),2015.0,0.397607127
+Mongolia,2015.0,10.93
+Mozambique,2015.0,1.61
+Mauritania,2015.0,0.0
+Mauritius,2015.0,7.4
+Malawi,2015.0,3.58
+Malaysia,2015.0,0.63
+North America,2015.0,9.519771314
+Namibia,2015.0,5.8
+Niger,2015.0,0.18
+Nigeria,2015.0,4.39
+Nicaragua,2015.0,4.03
+Netherlands,2015.0,9.5
+Norway,2015.0,6.88
+Nepal,2015.0,1.18
+Nauru,2015.0,2.95
+New Zealand,2015.0,9.74
+Oecd Members,2015.0,8.632243281
+Oman,2015.0,0.79
+Other Small States,2015.0,5.602348004
+Pakistan,2015.0,0.089
+Panama,2015.0,6.65
+Peru,2015.0,7.68
+Philippines,2015.0,5.84
+Papua New Guinea,2015.0,1.67
+Poland,2015.0,11.58
+Pre-Demographic Dividend,2015.0,4.198757558
+"Korea, Dem. People'S Rep.",2015.0,4.46
+Portugal,2015.0,10.29
+Paraguay,2015.0,5.55
+Pacific Island Small States,2015.0,2.025889771
+Post-Demographic Dividend,2015.0,9.531002261
+Qatar,2015.0,1.15
+Romania,2015.0,16.98
+Russian Federation,2015.0,12.16
+Rwanda,2015.0,1.36
+South Asia,2015.0,3.894095613
+Saudi Arabia,2015.0,0.0
+Sudan,2015.0,0.19
+Senegal,2015.0,0.36
+Singapore,2015.0,1.92
+Solomon Islands,2015.0,0.94
+Sierra Leone,2015.0,0.38
+El Salvador,2015.0,2.78
+Somalia,2015.0,0.0
+Sub-Saharan Africa (Excluding High Income),2015.0,4.65527325
+Sub-Saharan Africa,2015.0,4.656040723
+Small States,2015.0,5.30141974
+Sao Tome And Principe,2015.0,6.46
+Suriname,2015.0,5.72
+Slovak Republic,2015.0,10.32
+Slovenia,2015.0,11.27
+Sweden,2015.0,9.54
+Eswatini,2015.0,8.03
+Seychelles,2015.0,10.68
+Syrian Arab Republic,2015.0,0.28
+Chad,2015.0,4.55
+East Asia & Pacific (Ida & Ibrd Countries),2015.0,6.218408362
+Europe & Central Asia (Ida & Ibrd Countries),2015.0,8.824844003
+Togo,2015.0,1.8
+Thailand,2015.0,8.1
+Tajikistan,2015.0,0.86
+Turkmenistan,2015.0,3.23
+Latin America & The Caribbean (Ida & Ibrd Countries),2015.0,6.610097487
+Timor-Leste,2015.0,0.52
+Middle East & North Africa (Ida & Ibrd Countries),2015.0,0.397607127
+Tonga,2015.0,0.3
+South Asia (Ida & Ibrd),2015.0,3.894095613
+Sub-Saharan Africa (Ida & Ibrd Countries),2015.0,4.656040723
+Trinidad And Tobago,2015.0,6.27
+Tunisia,2015.0,1.95
+Turkiye,2015.0,1.95
+Tuvalu,2015.0,2.11
+Tanzania,2015.0,11.7
+Uganda,2015.0,13.38
+Ukraine,2015.0,10.65
+Upper Middle Income,2015.0,6.026575842
+Uruguay,2015.0,6.0
+United States,2015.0,9.47
+Uzbekistan,2015.0,2.39
+St. Vincent And The Grenadines,2015.0,6.77
+"Venezuela, Rb",2015.0,6.97
+Viet Nam,2015.0,8.53
+Vanuatu,2015.0,1.73
+World,2015.0,5.93226259
+Samoa,2015.0,2.05
+"Yemen, Rep.",2015.0,0.048
+South Africa,2015.0,8.93
+Zambia,2015.0,3.67
+Zimbabwe,2015.0,3.92
+Africa Eastern And Southern,2016.0,4.760042674
+Afghanistan,2016.0,0.009
+Africa Western And Central,2016.0,4.438419852
+Angola,2016.0,7.76
+Albania,2016.0,5.04
+Andorra,2016.0,10.76
+Arab World,2016.0,0.393540468
+United Arab Emirates,2016.0,2.37
+Argentina,2016.0,8.57
+Armenia,2016.0,4.98
+Antigua And Barbuda,2016.0,7.39
+Australia,2016.0,10.39
+Austria,2016.0,12.19
+Azerbaijan,2016.0,1.44
+Burundi,2016.0,4.19
+Belgium,2016.0,11.24
+Benin,2016.0,8.1
+Burkina Faso,2016.0,9.66
+Bangladesh,2016.0,0.005
+Bulgaria,2016.0,11.44
+Bahrain,2016.0,1.89
+"Bahamas, The",2016.0,4.36
+Bosnia And Herzegovina,2016.0,5.95
+Belarus,2016.0,11.04
+Belize,2016.0,6.34
+Bolivia,2016.0,4.31
+Brazil,2016.0,8.2
+Barbados,2016.0,9.18
+Brunei Darussalam,2016.0,0.41
+Bhutan,2016.0,0.32
+Botswana,2016.0,7.08
+Central African Republic,2016.0,1.94
+Canada,2016.0,9.92
+Central Europe And The Baltics,2016.0,12.53900374
+Switzerland,2016.0,10.69
+Chile,2016.0,7.75
+China,2016.0,7.35
+Cote D'Ivoire,2016.0,2.57
+Cameroon,2016.0,10.72
+"Congo, Dem. Rep.",2016.0,2.44
+"Congo, Rep.",2016.0,5.67
+Colombia,2016.0,5.02
+Comoros,2016.0,0.2
+Cabo Verde,2016.0,5.82
+Costa Rica,2016.0,3.5
+Caribbean Small States,2016.0,6.353311841
+Cuba,2016.0,5.85
+Cyprus,2016.0,8.12
+Czechia,2016.0,13.22
+Germany,2016.0,12.15
+Djibouti,2016.0,0.53
+Dominica,2016.0,6.31
+Denmark,2016.0,9.61
+Dominican Republic,2016.0,6.57
+Algeria,2016.0,0.58
+East Asia & Pacific (Excluding High Income),2016.0,6.252641061
+Early-Demographic Dividend,2016.0,3.432565289
+East Asia & Pacific,2016.0,6.375362801
+Europe & Central Asia (Excluding High Income),2016.0,4.96221285
+Europe & Central Asia,2016.0,9.516384995
+Ecuador,2016.0,3.85
+"Egypt, Arab Rep.",2016.0,0.18
+Euro Area,2016.0,10.49012736
+Eritrea,2016.0,1.32
+Spain,2016.0,9.94
+Estonia,2016.0,15.06
+Ethiopia,2016.0,2.52
+European Union,2016.0,10.90622483
+Fragile And Conflict Affected Situations,2016.0,3.425114765
+Finland,2016.0,9.43
+Fiji,2016.0,3.06
+France,2016.0,11.73
+"Micronesia, Fed. Sts.",2016.0,2.09
+Gabon,2016.0,8.6
+United Kingdom,2016.0,10.52
+Georgia,2016.0,13.95
+Ghana,2016.0,5.01
+Guinea,2016.0,0.5
+"Gambia, The",2016.0,2.07
+Guinea-Bissau,2016.0,3.99
+Equatorial Guinea,2016.0,8.71
+Greece,2016.0,7.48
+Grenada,2016.0,7.77
+Guatemala,2016.0,1.65
+Guyana,2016.0,5.75
+High Income,2016.0,9.520395687
+Honduras,2016.0,2.85
+Heavily Indebted Poor Countries (Hipc),2016.0,3.985272008
+Croatia,2016.0,8.59
+Haiti,2016.0,3.22
+Hungary,2016.0,10.68
+Ibrd Only,2016.0,5.938436878
+Ida & Ibrd Total,2016.0,5.260585763
+Ida Total,2016.0,2.70827651
+Ida Blend,2016.0,2.561600367
+Indonesia,2016.0,0.11
+Ida Only,2016.0,2.782349526
+India,2016.0,4.96
+Ireland,2016.0,11.71
+"Iran, Islamic Rep.",2016.0,0.44
+Iraq,2016.0,0.23
+Iceland,2016.0,7.85
+Israel,2016.0,2.94
+Italy,2016.0,7.68
+Jamaica,2016.0,3.39
+Jordan,2016.0,0.37
+Japan,2016.0,6.72
+Kazakhstan,2016.0,4.17
+Kenya,2016.0,2.78
+Kyrgyz Republic,2016.0,6.17
+Cambodia,2016.0,7.06
+Kiribati,2016.0,0.71
+St. Kitts And Nevis,2016.0,6.12
+"Korea, Rep.",2016.0,8.52
+Kuwait,2016.0,0.0
+Latin America & Caribbean (Excluding High Income),2016.0,6.489935931
+Lao Pdr,2016.0,11.31
+Lebanon,2016.0,1.53
+Liberia,2016.0,3.63
+Libya,2016.0,0.011
+St. Lucia,2016.0,8.63
+Latin America & Caribbean,2016.0,6.504666917
+Least Developed Countries: Un Classification,2016.0,2.882321959
+Low Income,2016.0,2.854972817
+Sri Lanka,2016.0,2.86
+Lower Middle Income,2016.0,4.114949325
+Low & Middle Income,2016.0,4.960509835
+Lesotho,2016.0,3.28
+Late-Demographic Dividend,2016.0,7.534431706
+Lithuania,2016.0,14.17
+Luxembourg,2016.0,11.71
+Latvia,2016.0,11.61
+Morocco,2016.0,0.41
+Moldova,2016.0,11.35
+Madagascar,2016.0,1.01
+Maldives,2016.0,1.35
+Middle East & North Africa,2016.0,0.490398336
+Mexico,2016.0,5.15
+Middle Income,2016.0,5.132155118
+North Macedonia,2016.0,4.3
+Mali,2016.0,4.59
+Malta,2016.0,7.72
+Myanmar,2016.0,1.62
+Middle East & North Africa (Excluding High Income),2016.0,0.401563244
+Montenegro,2016.0,9.55
+Mongolia,2016.0,9.66
+Mozambique,2016.0,1.76
+Mauritania,2016.0,0.0
+Mauritius,2016.0,7.4
+Malawi,2016.0,3.37
+Malaysia,2016.0,0.65
+North America,2016.0,9.534536931
+Namibia,2016.0,6.01
+Niger,2016.0,0.18
+Nigeria,2016.0,4.39
+Nicaragua,2016.0,4.11
+Netherlands,2016.0,9.38
+Norway,2016.0,6.83
+Nepal,2016.0,1.22
+Nauru,2016.0,2.94
+New Zealand,2016.0,9.69
+Oecd Members,2016.0,8.629837521
+Oman,2016.0,0.81
+Other Small States,2016.0,5.683536899
+Pakistan,2016.0,0.096
+Panama,2016.0,6.59
+Peru,2016.0,7.55
+Philippines,2016.0,5.85
+Papua New Guinea,2016.0,1.73
+Poland,2016.0,11.46
+Pre-Demographic Dividend,2016.0,4.149564483
+"Korea, Dem. People'S Rep.",2016.0,4.45
+Portugal,2016.0,10.54
+Paraguay,2016.0,5.41
+Pacific Island Small States,2016.0,2.075510127
+Post-Demographic Dividend,2016.0,9.489483528
+Qatar,2016.0,1.17
+Romania,2016.0,16.85
+Russian Federation,2016.0,11.64
+Rwanda,2016.0,1.37
+South Asia,2016.0,3.849546599
+Saudi Arabia,2016.0,0.0
+Sudan,2016.0,0.19
+Senegal,2016.0,0.37
+Singapore,2016.0,1.91
+Solomon Islands,2016.0,1.07
+Sierra Leone,2016.0,0.31
+El Salvador,2016.0,2.89
+Somalia,2016.0,0.0
+Serbia,2016.0,7.84
+Sub-Saharan Africa (Excluding High Income),2016.0,4.629496727
+Sub-Saharan Africa,2016.0,4.630432689
+Small States,2016.0,5.38167878
+Sao Tome And Principe,2016.0,5.93
+Suriname,2016.0,5.68
+Slovak Republic,2016.0,10.32
+Slovenia,2016.0,11.58
+Sweden,2016.0,9.45
+Eswatini,2016.0,7.73
+Seychelles,2016.0,12.03
+Syrian Arab Republic,2016.0,0.29
+Chad,2016.0,4.58
+East Asia & Pacific (Ida & Ibrd Countries),2016.0,6.275438685
+Europe & Central Asia (Ida & Ibrd Countries),2016.0,8.462075547
+Togo,2016.0,1.72
+Thailand,2016.0,8.16
+Tajikistan,2016.0,0.89
+Turkmenistan,2016.0,3.2
+Latin America & The Caribbean (Ida & Ibrd Countries),2016.0,6.519877471
+Timor-Leste,2016.0,0.47
+Middle East & North Africa (Ida & Ibrd Countries),2016.0,0.401563244
+Tonga,2016.0,0.36
+South Asia (Ida & Ibrd),2016.0,3.849546599
+Sub-Saharan Africa (Ida & Ibrd Countries),2016.0,4.630432689
+Trinidad And Tobago,2016.0,6.23
+Tunisia,2016.0,2.03
+Turkiye,2016.0,1.9
+Tuvalu,2016.0,1.86
+Tanzania,2016.0,11.65
+Uganda,2016.0,13.28
+Ukraine,2016.0,9.73
+Upper Middle Income,2016.0,6.026395637
+Uruguay,2016.0,6.02
+United States,2016.0,9.49
+Uzbekistan,2016.0,2.55
+St. Vincent And The Grenadines,2016.0,7.01
+"Venezuela, Rb",2016.0,6.05
+Viet Nam,2016.0,8.85
+Vanuatu,2016.0,1.69
+World,2016.0,5.896188151
+Samoa,2016.0,2.18
+"Yemen, Rep.",2016.0,0.04
+South Africa,2016.0,8.88
+Zambia,2016.0,3.73
+Zimbabwe,2016.0,3.75
+Africa Eastern And Southern,2017.0,4.665035761
+Afghanistan,2017.0,0.013
+Africa Western And Central,2017.0,4.367259756
+Angola,2017.0,7.01
+Albania,2017.0,5.13
+Andorra,2017.0,11.19
+Arab World,2017.0,0.37179035
+United Arab Emirates,2017.0,2.43
+Argentina,2017.0,8.6
+Armenia,2017.0,4.88
+Antigua And Barbuda,2017.0,7.73
+Australia,2017.0,10.25
+Austria,2017.0,11.93
+Azerbaijan,2017.0,1.46
+Burundi,2017.0,4.19
+Belgium,2017.0,10.79
+Benin,2017.0,7.9
+Burkina Faso,2017.0,9.72
+Bangladesh,2017.0,0.005
+Bulgaria,2017.0,11.65
+Bahrain,2017.0,1.77
+"Bahamas, The",2017.0,4.37
+Bosnia And Herzegovina,2017.0,6.15
+Belarus,2017.0,10.55
+Belize,2017.0,6.15
+Bolivia,2017.0,4.26
+Brazil,2017.0,8.0
+Barbados,2017.0,9.4
+Brunei Darussalam,2017.0,0.41
+Bhutan,2017.0,0.18
+Botswana,2017.0,7.32
+Central African Republic,2017.0,2.01
+Canada,2017.0,9.92
+Central Europe And The Baltics,2017.0,12.49208015
+Switzerland,2017.0,10.53
+Chile,2017.0,7.02
+China,2017.0,7.18
+Cote D'Ivoire,2017.0,2.65
+Cameroon,2017.0,10.41
+"Congo, Dem. Rep.",2017.0,2.28
+"Congo, Rep.",2017.0,6.12
+Colombia,2017.0,5.0
+Comoros,2017.0,0.23
+Cabo Verde,2017.0,6.11
+Costa Rica,2017.0,3.53
+Caribbean Small States,2017.0,6.354911249
+Cuba,2017.0,5.91
+Cyprus,2017.0,8.09
+Czechia,2017.0,13.2
+Germany,2017.0,12.17
+Djibouti,2017.0,0.49
+Dominica,2017.0,6.3
+Denmark,2017.0,9.52
+Dominican Republic,2017.0,6.64
+Algeria,2017.0,0.6
+East Asia & Pacific (Excluding High Income),2017.0,6.154129933
+Early-Demographic Dividend,2017.0,3.412391343
+East Asia & Pacific,2017.0,6.286098422
+Europe & Central Asia (Excluding High Income),2017.0,4.607116054
+Europe & Central Asia,2017.0,9.397647942
+Ecuador,2017.0,3.53
+"Egypt, Arab Rep.",2017.0,0.16
+Euro Area,2017.0,10.55212641
+Eritrea,2017.0,1.29
+Spain,2017.0,10.93
+Estonia,2017.0,13.92
+Ethiopia,2017.0,2.77
+European Union,2017.0,10.94893778
+Fragile And Conflict Affected Situations,2017.0,3.307675794
+Finland,2017.0,9.3
+Fiji,2017.0,3.05
+France,2017.0,11.6
+"Micronesia, Fed. Sts.",2017.0,2.13
+Gabon,2017.0,8.2
+United Kingdom,2017.0,10.64
+Georgia,2017.0,13.97
+Ghana,2017.0,4.71
+Guinea,2017.0,0.49
+"Gambia, The",2017.0,1.62
+Guinea-Bissau,2017.0,4.08
+Equatorial Guinea,2017.0,7.87
+Greece,2017.0,7.34
+Grenada,2017.0,7.84
+Guatemala,2017.0,1.62
+Guyana,2017.0,5.52
+High Income,2017.0,9.459211458
+Honduras,2017.0,2.94
+Heavily Indebted Poor Countries (Hipc),2017.0,3.927415881
+Croatia,2017.0,8.65
+Haiti,2017.0,3.38
+Hungary,2017.0,10.63
+Ibrd Only,2017.0,5.810160181
+Ida & Ibrd Total,2017.0,5.150921488
+Ida Total,2017.0,2.705511477
+Ida Blend,2017.0,2.563456943
+Indonesia,2017.0,0.11
+Ida Only,2017.0,2.776811096
+India,2017.0,4.87
+Ireland,2017.0,11.76
+"Iran, Islamic Rep.",2017.0,0.82
+Iraq,2017.0,0.24
+Iceland,2017.0,8.07
+Israel,2017.0,2.95
+Italy,2017.0,7.61
+Jamaica,2017.0,3.47
+Jordan,2017.0,0.34
+Japan,2017.0,6.75
+Kazakhstan,2017.0,4.19
+Kenya,2017.0,2.85
+Kyrgyz Republic,2017.0,5.73
+Cambodia,2017.0,7.61
+Kiribati,2017.0,0.75
+St. Kitts And Nevis,2017.0,6.17
+"Korea, Rep.",2017.0,8.47
+Kuwait,2017.0,0.0
+Latin America & Caribbean (Excluding High Income),2017.0,6.45691152
+Lao Pdr,2017.0,11.43
+Lebanon,2017.0,1.52
+Liberia,2017.0,3.68
+Libya,2017.0,0.01
+St. Lucia,2017.0,8.77
+Latin America & Caribbean,2017.0,6.398967111
+Least Developed Countries: Un Classification,2017.0,2.863776047
+Low Income,2017.0,2.835728021
+Sri Lanka,2017.0,2.91
+Lower Middle Income,2017.0,4.0750021
+Low & Middle Income,2017.0,4.874683023
+Lesotho,2017.0,3.38
+Late-Demographic Dividend,2017.0,7.371708579
+Lithuania,2017.0,13.03
+Luxembourg,2017.0,11.66
+Latvia,2017.0,12.1
+Morocco,2017.0,0.41
+Moldova,2017.0,11.24
+Madagascar,2017.0,1.0
+Maldives,2017.0,1.32
+Middle East & North Africa,2017.0,0.564465222
+Mexico,2017.0,5.38
+Middle Income,2017.0,5.043929366
+North Macedonia,2017.0,4.36
+Mali,2017.0,4.49
+Malta,2017.0,8.14
+Myanmar,2017.0,1.76
+Middle East & North Africa (Excluding High Income),2017.0,0.486982426
+Mongolia,2017.0,8.65
+Mozambique,2017.0,1.88
+Mauritania,2017.0,0.0
+Mauritius,2017.0,7.4
+Malawi,2017.0,3.19
+Malaysia,2017.0,0.69
+North America,2017.0,9.552567389
+Namibia,2017.0,6.09
+Niger,2017.0,0.17
+Nigeria,2017.0,4.35
+Nicaragua,2017.0,4.23
+Netherlands,2017.0,9.33
+Norway,2017.0,6.81
+Nepal,2017.0,1.35
+Nauru,2017.0,2.94
+New Zealand,2017.0,9.71
+Oecd Members,2017.0,8.648628557
+Oman,2017.0,0.85
+Other Small States,2017.0,5.294872617
+Pakistan,2017.0,0.099
+Panama,2017.0,6.62
+Peru,2017.0,7.55
+Philippines,2017.0,5.9
+Papua New Guinea,2017.0,1.74
+Poland,2017.0,11.47
+Pre-Demographic Dividend,2017.0,4.046951694
+"Korea, Dem. People'S Rep.",2017.0,4.4
+Portugal,2017.0,10.55
+Paraguay,2017.0,5.44
+Pacific Island Small States,2017.0,2.116271265
+Post-Demographic Dividend,2017.0,9.483711891
+Qatar,2017.0,1.18
+Romania,2017.0,16.82
+Russian Federation,2017.0,11.05
+Rwanda,2017.0,1.36
+South Asia,2017.0,3.784215923
+Saudi Arabia,2017.0,0.0
+Sudan,2017.0,0.002
+Senegal,2017.0,0.39
+Singapore,2017.0,1.89
+Solomon Islands,2017.0,1.22
+Sierra Leone,2017.0,0.27
+El Salvador,2017.0,3.01
+Somalia,2017.0,0.0
+Sub-Saharan Africa (Excluding High Income),2017.0,4.544167954
+Sub-Saharan Africa,2017.0,4.54518854
+Small States,2017.0,5.099022594
+Sao Tome And Principe,2017.0,5.33
+Suriname,2017.0,5.83
+Slovak Republic,2017.0,10.14
+Slovenia,2017.0,11.31
+Sweden,2017.0,9.35
+Eswatini,2017.0,7.74
+Seychelles,2017.0,12.75
+Syrian Arab Republic,2017.0,0.25
+Chad,2017.0,4.35
+East Asia & Pacific (Ida & Ibrd Countries),2017.0,6.176308326
+Europe & Central Asia (Ida & Ibrd Countries),2017.0,8.135332556
+Togo,2017.0,1.63
+Thailand,2017.0,8.28
+Tajikistan,2017.0,0.91
+Turkmenistan,2017.0,3.16
+Latin America & The Caribbean (Ida & Ibrd Countries),2017.0,6.410484873
+Timor-Leste,2017.0,0.46
+Middle East & North Africa (Ida & Ibrd Countries),2017.0,0.486982426
+Tonga,2017.0,0.4
+South Asia (Ida & Ibrd),2017.0,3.784215923
+Sub-Saharan Africa (Ida & Ibrd Countries),2017.0,4.54518854
+Trinidad And Tobago,2017.0,6.12
+Tunisia,2017.0,2.04
+Turkiye,2017.0,1.84
+Tuvalu,2017.0,1.49
+Tanzania,2017.0,11.21
+Uganda,2017.0,12.89
+Ukraine,2017.0,8.93
+Upper Middle Income,2017.0,5.907562606
+Uruguay,2017.0,5.86
+United States,2017.0,9.51
+Uzbekistan,2017.0,2.64
+St. Vincent And The Grenadines,2017.0,7.18
+"Venezuela, Rb",2017.0,4.95
+Viet Nam,2017.0,9.17
+Vanuatu,2017.0,1.73
+World,2017.0,5.805195386
+Samoa,2017.0,2.27
+"Yemen, Rep.",2017.0,0.031
+South Africa,2017.0,8.8
+Zambia,2017.0,3.75
+Zimbabwe,2017.0,3.56
+Africa Eastern And Southern,2018.0,4.61732876
+Afghanistan,2018.0,0.017
+Africa Western And Central,2018.0,4.305767536
+Angola,2018.0,6.67
+Albania,2018.0,5.13
+Andorra,2018.0,11.1
+Arab World,2018.0,0.366559684
+United Arab Emirates,2018.0,2.43
+Argentina,2018.0,8.34
+Armenia,2018.0,4.85
+Antigua And Barbuda,2018.0,8.26
+Australia,2018.0,10.19
+Austria,2018.0,11.92
+Azerbaijan,2018.0,1.59
+Burundi,2018.0,4.15
+Belgium,2018.0,10.38
+Benin,2018.0,8.09
+Burkina Faso,2018.0,9.76
+Bangladesh,2018.0,0.005
+Bulgaria,2018.0,11.85
+Bahrain,2018.0,1.65
+"Bahamas, The",2018.0,4.38
+Bosnia And Herzegovina,2018.0,6.33
+Belarus,2018.0,10.64
+Belize,2018.0,5.92
+Bolivia,2018.0,4.19
+Brazil,2018.0,7.79
+Barbados,2018.0,9.49
+Brunei Darussalam,2018.0,0.41
+Bhutan,2018.0,0.2
+Botswana,2018.0,7.61
+Central African Republic,2018.0,2.01
+Canada,2018.0,9.95
+Central Europe And The Baltics,2018.0,12.50724346
+Switzerland,2018.0,10.36
+Chile,2018.0,6.5
+China,2018.0,6.53
+Cote D'Ivoire,2018.0,2.71
+Cameroon,2018.0,10.16
+"Congo, Dem. Rep.",2018.0,2.2
+"Congo, Rep.",2018.0,6.5
+Colombia,2018.0,5.01
+Comoros,2018.0,0.25
+Cabo Verde,2018.0,6.25
+Costa Rica,2018.0,3.55
+Caribbean Small States,2018.0,6.432087985
+Cuba,2018.0,5.95
+Cyprus,2018.0,8.07
+Czechia,2018.0,13.26
+Germany,2018.0,12.23
+Djibouti,2018.0,0.47
+Dominica,2018.0,6.21
+Denmark,2018.0,9.5
+Dominican Republic,2018.0,6.69
+Algeria,2018.0,0.61
+East Asia & Pacific (Excluding High Income),2018.0,5.705113451
+Early-Demographic Dividend,2018.0,3.420407098
+East Asia & Pacific,2018.0,5.87610991
+Europe & Central Asia (Excluding High Income),2018.0,4.547839066
+Europe & Central Asia,2018.0,9.329431122
+Ecuador,2018.0,3.3
+"Egypt, Arab Rep.",2018.0,0.15
+Euro Area,2018.0,10.53564305
+Eritrea,2018.0,1.24
+Spain,2018.0,10.93
+Estonia,2018.0,12.33
+Ethiopia,2018.0,3.08
+European Union,2018.0,10.9465043
+Fragile And Conflict Affected Situations,2018.0,3.246772524
+Finland,2018.0,9.23
+Fiji,2018.0,3.18
+France,2018.0,11.4
+"Micronesia, Fed. Sts.",2018.0,2.13
+Gabon,2018.0,7.69
+United Kingdom,2018.0,10.77
+Georgia,2018.0,13.97
+Ghana,2018.0,4.58
+Guinea,2018.0,0.47
+"Gambia, The",2018.0,1.36
+Guinea-Bissau,2018.0,4.19
+Equatorial Guinea,2018.0,7.19
+Greece,2018.0,7.28
+Grenada,2018.0,7.94
+Guatemala,2018.0,1.62
+Guyana,2018.0,5.41
+High Income,2018.0,9.410253564
+Honduras,2018.0,3.06
+Heavily Indebted Poor Countries (Hipc),2018.0,3.90388551
+Croatia,2018.0,8.63
+Haiti,2018.0,3.5
+Hungary,2018.0,10.75
+Ibrd Only,2018.0,5.563975722
+Ida & Ibrd Total,2018.0,4.950132202
+Ida Total,2018.0,2.706343939
+Ida Blend,2018.0,2.545674045
+Indonesia,2018.0,0.11
+Ida Only,2018.0,2.786506637
+India,2018.0,4.87
+Ireland,2018.0,11.85
+"Iran, Islamic Rep.",2018.0,0.97
+Iraq,2018.0,0.24
+Iceland,2018.0,8.08
+Israel,2018.0,2.97
+Italy,2018.0,7.81
+Jamaica,2018.0,3.55
+Jordan,2018.0,0.33
+Japan,2018.0,6.72
+Kazakhstan,2018.0,4.48
+Kenya,2018.0,2.85
+Kyrgyz Republic,2018.0,5.4
+Cambodia,2018.0,8.13
+Kiribati,2018.0,0.78
+St. Kitts And Nevis,2018.0,6.25
+"Korea, Rep.",2018.0,8.29
+Kuwait,2018.0,0.0
+Latin America & Caribbean (Excluding High Income),2018.0,6.386119104
+Lao Pdr,2018.0,11.36
+Lebanon,2018.0,1.51
+Liberia,2018.0,3.68
+Libya,2018.0,0.008
+St. Lucia,2018.0,9.0
+Latin America & Caribbean,2018.0,6.260551232
+Least Developed Countries: Un Classification,2018.0,2.871782987
+Low Income,2018.0,2.854636206
+Sri Lanka,2018.0,2.86
+Lower Middle Income,2018.0,4.076057529
+Low & Middle Income,2018.0,4.685950374
+Lesotho,2018.0,4.07
+Late-Demographic Dividend,2018.0,6.915024386
+Lithuania,2018.0,12.29
+Luxembourg,2018.0,11.58
+Latvia,2018.0,12.7
+Morocco,2018.0,0.44
+Moldova,2018.0,11.33
+Madagascar,2018.0,1.02
+Maldives,2018.0,1.35
+Middle East & North Africa,2018.0,0.591493467
+Mexico,2018.0,5.54
+Middle Income,2018.0,4.840787626
+North Macedonia,2018.0,4.48
+Mali,2018.0,4.38
+Malta,2018.0,8.44
+Myanmar,2018.0,1.91
+Middle East & North Africa (Excluding High Income),2018.0,0.519198699
+Mongolia,2018.0,8.45
+Mozambique,2018.0,1.97
+Mauritania,2018.0,0.0
+Mauritius,2018.0,7.52
+Malawi,2018.0,3.13
+Malaysia,2018.0,0.73
+North America,2018.0,9.591707088
+Namibia,2018.0,6.09
+Niger,2018.0,0.15
+Nigeria,2018.0,4.29
+Nicaragua,2018.0,4.24
+Netherlands,2018.0,9.34
+Norway,2018.0,6.81
+Nepal,2018.0,1.34
+Nauru,2018.0,2.94
+New Zealand,2018.0,9.85
+Oecd Members,2018.0,8.647672593
+Oman,2018.0,0.87
+Other Small States,2018.0,5.105933497
+Pakistan,2018.0,0.1
+Panama,2018.0,6.57
+Peru,2018.0,7.53
+Philippines,2018.0,6.04
+Papua New Guinea,2018.0,1.76
+Poland,2018.0,11.5
+Pre-Demographic Dividend,2018.0,3.966153406
+"Korea, Dem. People'S Rep.",2018.0,4.35
+Portugal,2018.0,10.44
+Paraguay,2018.0,5.53
+Pacific Island Small States,2018.0,2.249638252
+Post-Demographic Dividend,2018.0,9.481461103
+Qatar,2018.0,1.17
+Romania,2018.0,16.92
+Russian Federation,2018.0,10.72
+Rwanda,2018.0,1.34
+South Asia,2018.0,3.782449342
+Saudi Arabia,2018.0,0.0
+Sudan,2018.0,0.002
+Senegal,2018.0,0.4
+Singapore,2018.0,1.89
+Solomon Islands,2018.0,1.53
+Sierra Leone,2018.0,0.25
+El Salvador,2018.0,3.15
+Somalia,2018.0,0.0
+Sub-Saharan Africa (Excluding High Income),2018.0,4.491067807
+Sub-Saharan Africa,2018.0,4.492037153
+Small States,2018.0,4.993444983
+Sao Tome And Principe,2018.0,5.11
+Suriname,2018.0,6.29
+Slovak Republic,2018.0,10.07
+Slovenia,2018.0,10.81
+Sweden,2018.0,9.33
+Eswatini,2018.0,8.04
+Seychelles,2018.0,12.43
+Syrian Arab Republic,2018.0,0.22
+Chad,2018.0,4.05
+East Asia & Pacific (Ida & Ibrd Countries),2018.0,5.722236955
+Europe & Central Asia (Ida & Ibrd Countries),2018.0,7.987170621
+Togo,2018.0,1.5
+Thailand,2018.0,7.95
+Tajikistan,2018.0,0.89
+Turkmenistan,2018.0,3.05
+Latin America & The Caribbean (Ida & Ibrd Countries),2018.0,6.268182074
+Timor-Leste,2018.0,0.47
+Middle East & North Africa (Ida & Ibrd Countries),2018.0,0.519198699
+Tonga,2018.0,0.39
+South Asia (Ida & Ibrd),2018.0,3.782449342
+Sub-Saharan Africa (Ida & Ibrd Countries),2018.0,4.492037153
+Trinidad And Tobago,2018.0,6.01
+Tunisia,2018.0,2.02
+Turkiye,2018.0,1.84
+Tuvalu,2018.0,1.28
+Tanzania,2018.0,10.65
+Uganda,2018.0,12.58
+Ukraine,2018.0,8.71
+Upper Middle Income,2018.0,5.530130814
+Uruguay,2018.0,5.53
+United States,2018.0,9.55
+Uzbekistan,2018.0,2.59
+St. Vincent And The Grenadines,2018.0,7.22
+"Venezuela, Rb",2018.0,3.72
+Viet Nam,2018.0,9.31
+Vanuatu,2018.0,1.74
+World,2018.0,5.632925853
+Samoa,2018.0,2.38
+"Yemen, Rep.",2018.0,0.027
+South Africa,2018.0,8.72
+Zambia,2018.0,3.83
+Zimbabwe,2018.0,3.52
+Africa Eastern And Southern,2019.0,4.613334698
+Afghanistan,2019.0,0.016
+Africa Western And Central,2019.0,4.257363382
+Angola,2019.0,6.17
+Albania,2019.0,5.11
+Andorra,2019.0,11.05
+Arab World,2019.0,0.362875481
+United Arab Emirates,2019.0,2.37
+Argentina,2019.0,8.04
+Armenia,2019.0,4.98
+Antigua And Barbuda,2019.0,8.51
+Australia,2019.0,10.09
+Austria,2019.0,11.97
+Azerbaijan,2019.0,1.97
+Burundi,2019.0,4.13
+Belgium,2019.0,10.28
+Benin,2019.0,8.35
+Burkina Faso,2019.0,9.81
+Bangladesh,2019.0,0.005
+Bulgaria,2019.0,11.92
+Bahrain,2019.0,1.58
+"Bahamas, The",2019.0,4.39
+Bosnia And Herzegovina,2019.0,6.38
+Belarus,2019.0,10.9
+Belize,2019.0,5.71
+Bolivia,2019.0,4.1
+Brazil,2019.0,7.67
+Barbados,2019.0,9.47
+Brunei Darussalam,2019.0,0.41
+Bhutan,2019.0,0.2
+Botswana,2019.0,8.16
+Central African Republic,2019.0,1.99
+Canada,2019.0,9.9
+Central Europe And The Baltics,2019.0,12.56035633
+Switzerland,2019.0,10.4
+Chile,2019.0,6.75
+China,2019.0,5.73
+Cote D'Ivoire,2019.0,2.8
+Cameroon,2019.0,10.1
+"Congo, Dem. Rep.",2019.0,2.12
+"Congo, Rep.",2019.0,6.4
+Colombia,2019.0,4.92
+Comoros,2019.0,0.25
+Cabo Verde,2019.0,6.27
+Costa Rica,2019.0,3.45
+Caribbean Small States,2019.0,6.483911738
+Cuba,2019.0,6.01
+Cyprus,2019.0,8.05
+Czechia,2019.0,13.29
+Germany,2019.0,12.22
+Djibouti,2019.0,0.4
+Dominica,2019.0,6.1
+Denmark,2019.0,9.4
+Dominican Republic,2019.0,6.76
+Algeria,2019.0,0.61
+East Asia & Pacific (Excluding High Income),2019.0,5.158541047
+Early-Demographic Dividend,2019.0,3.449268425
+East Asia & Pacific,2019.0,5.378819735
+Europe & Central Asia (Excluding High Income),2019.0,4.537303917
+Europe & Central Asia,2019.0,9.277757455
+Ecuador,2019.0,3.26
+"Egypt, Arab Rep.",2019.0,0.15
+Euro Area,2019.0,10.53045385
+Eritrea,2019.0,1.23
+Spain,2019.0,10.91
+Estonia,2019.0,11.26
+Ethiopia,2019.0,3.36
+European Union,2019.0,10.94981137
+Fragile And Conflict Affected Situations,2019.0,3.223490811
+Finland,2019.0,9.16
+Fiji,2019.0,3.45
+France,2019.0,11.3
+"Micronesia, Fed. Sts.",2019.0,2.12
+Gabon,2019.0,7.33
+United Kingdom,2019.0,10.82
+Georgia,2019.0,14.33
+Ghana,2019.0,4.55
+Guinea,2019.0,0.47
+"Gambia, The",2019.0,1.11
+Guinea-Bissau,2019.0,4.14
+Equatorial Guinea,2019.0,6.94
+Greece,2019.0,7.12
+Grenada,2019.0,8.06
+Guatemala,2019.0,1.63
+Guyana,2019.0,5.35
+High Income,2019.0,9.369356212
+Honduras,2019.0,3.17
+Heavily Indebted Poor Countries (Hipc),2019.0,3.909471651
+Croatia,2019.0,8.54
+Haiti,2019.0,3.45
+Hungary,2019.0,10.6
+Ibrd Only,2019.0,5.296869372
+Ida & Ibrd Total,2019.0,4.736604512
+Ida Total,2019.0,2.720140867
+Ida Blend,2019.0,2.528839713
+Indonesia,2019.0,0.11
+Ida Only,2019.0,2.815145637
+India,2019.0,4.92
+Ireland,2019.0,11.7
+"Iran, Islamic Rep.",2019.0,0.7
+Iraq,2019.0,0.24
+Iceland,2019.0,8.07
+Israel,2019.0,3.01
+Italy,2019.0,7.97
+Jamaica,2019.0,3.6
+Jordan,2019.0,0.31
+Japan,2019.0,6.68
+Kazakhstan,2019.0,4.52
+Kenya,2019.0,2.87
+Kyrgyz Republic,2019.0,4.95
+Cambodia,2019.0,8.48
+Kiribati,2019.0,0.76
+St. Kitts And Nevis,2019.0,6.34
+"Korea, Rep.",2019.0,8.19
+Kuwait,2019.0,0.0
+Latin America & Caribbean (Excluding High Income),2019.0,6.339496206
+Lao Pdr,2019.0,11.52
+Lebanon,2019.0,1.48
+Liberia,2019.0,3.64
+Libya,2019.0,0.008
+St. Lucia,2019.0,9.47
+Latin America & Caribbean,2019.0,6.199879014
+Least Developed Countries: Un Classification,2019.0,2.894076679
+Low Income,2019.0,2.879061308
+Sri Lanka,2019.0,2.83
+Lower Middle Income,2019.0,4.102261043
+Low & Middle Income,2019.0,4.476733378
+Lesotho,2019.0,4.54
+Late-Demographic Dividend,2019.0,6.385423481
+Lithuania,2019.0,11.79
+Luxembourg,2019.0,11.53
+Latvia,2019.0,13.09
+Morocco,2019.0,0.49
+Moldova,2019.0,11.36
+Madagascar,2019.0,1.02
+Maldives,2019.0,1.43
+Middle East & North Africa,2019.0,0.534095288
+Mexico,2019.0,5.72
+Middle Income,2019.0,4.614383351
+North Macedonia,2019.0,4.62
+Mali,2019.0,4.35
+Malta,2019.0,8.52
+Myanmar,2019.0,2.12
+Middle East & North Africa (Excluding High Income),2019.0,0.453217482
+Mongolia,2019.0,7.93
+Mozambique,2019.0,2.03
+Mauritania,2019.0,0.0
+Mauritius,2019.0,7.52
+Malawi,2019.0,3.24
+Malaysia,2019.0,0.76
+North America,2019.0,9.604665848
+Namibia,2019.0,5.93
+Niger,2019.0,0.13
+Nigeria,2019.0,4.21
+Nicaragua,2019.0,4.17
+Netherlands,2019.0,9.3
+Norway,2019.0,6.8
+Nepal,2019.0,1.36
+Nauru,2019.0,2.94
+New Zealand,2019.0,9.89
+Oecd Members,2019.0,8.64917711
+Oman,2019.0,0.88
+Other Small States,2019.0,4.94202976
+Pakistan,2019.0,0.1
+Panama,2019.0,6.6
+Peru,2019.0,7.45
+Philippines,2019.0,6.18
+Papua New Guinea,2019.0,1.7
+Poland,2019.0,11.63
+Pre-Demographic Dividend,2019.0,3.897822891
+"Korea, Dem. People'S Rep.",2019.0,4.29
+Portugal,2019.0,10.45
+Paraguay,2019.0,5.6
+Pacific Island Small States,2019.0,2.389510727
+Post-Demographic Dividend,2019.0,9.47680583
+Qatar,2019.0,1.15
+Romania,2019.0,16.99
+Russian Federation,2019.0,10.42
+Rwanda,2019.0,1.88
+South Asia,2019.0,3.817701144
+Saudi Arabia,2019.0,0.0
+Sudan,2019.0,0.005
+Senegal,2019.0,0.41
+Singapore,2019.0,1.87
+Solomon Islands,2019.0,1.62
+Sierra Leone,2019.0,0.26
+El Salvador,2019.0,3.28
+Somalia,2019.0,0.0
+Sub-Saharan Africa (Excluding High Income),2019.0,4.469430699
+Sub-Saharan Africa,2019.0,4.470330028
+Small States,2019.0,4.903376616
+Sao Tome And Principe,2019.0,5.01
+Suriname,2019.0,6.63
+Slovak Republic,2019.0,10.48
+Slovenia,2019.0,10.98
+Sweden,2019.0,9.3
+Eswatini,2019.0,8.09
+Seychelles,2019.0,11.99
+Syrian Arab Republic,2019.0,0.2
+Chad,2019.0,3.73
+East Asia & Pacific (Ida & Ibrd Countries),2019.0,5.169505185
+Europe & Central Asia (Ida & Ibrd Countries),2019.0,7.879158601
+Togo,2019.0,1.42
+Thailand,2019.0,7.85
+Tajikistan,2019.0,0.87
+Turkmenistan,2019.0,2.93
+Latin America & The Caribbean (Ida & Ibrd Countries),2019.0,6.204939639
+Timor-Leste,2019.0,0.4
+Middle East & North Africa (Ida & Ibrd Countries),2019.0,0.453217482
+Tonga,2019.0,0.38
+South Asia (Ida & Ibrd),2019.0,3.817701144
+Sub-Saharan Africa (Ida & Ibrd Countries),2019.0,4.470330028
+Trinidad And Tobago,2019.0,6.06
+Tunisia,2019.0,2.01
+Turkiye,2019.0,1.82
+Tuvalu,2019.0,1.25
+Tanzania,2019.0,10.36
+Uganda,2019.0,12.21
+Ukraine,2019.0,8.7
+Upper Middle Income,2019.0,5.081099956
+Uruguay,2019.0,5.45
+United States,2019.0,9.57
+Uzbekistan,2019.0,2.6
+St. Vincent And The Grenadines,2019.0,7.16
+"Venezuela, Rb",2019.0,3.02
+Viet Nam,2019.0,9.34
+Vanuatu,2019.0,1.87
+World,2019.0,5.448134549
+Samoa,2019.0,2.39
+"Yemen, Rep.",2019.0,0.028
+South Africa,2019.0,8.77
+Zambia,2019.0,3.85
+Zimbabwe,2019.0,3.63

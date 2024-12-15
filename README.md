@@ -35,7 +35,7 @@ This project is a web-based dashboard that provides insights into alcohol consum
 
 4. Run the application:
    ```bash
-   python app.py
+   python Alcoholconsumption.py
    ```
 
 5. Open the app in your browser:
@@ -45,7 +45,7 @@ This project is a web-based dashboard that provides insights into alcohol consum
 ```
 alcohol-consumption-dashboard/
 │
-├── app.py                 # Main application file
+├── Alcoholconsumption.py  # Main application file
 ├── requirements.txt       # List of dependencies
 ├── README.md              # Project documentation
 ├── Cleaned_datasets/      # Folder containing required CSV files

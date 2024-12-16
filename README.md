@@ -18,8 +18,7 @@ This project is a web-based dashboard that provides insights into alcohol consum
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-name/alcohol-consumption-dashboard.git
-   cd alcohol-consumption-dashboard
+   git clone https://github.com/GNishanth7/Alcohol-Consumption-Insights.git
    ```
 
 2. Install the required Python packages:
